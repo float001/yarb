@@ -1,5 +1,7 @@
 # 每日安全资讯（2026-04-13）
 
+- SecWiki News
+  - [SecWiki News 2026-04-12 Review](http://www.sec-wiki.com/?2026-04-12)
 - Recent Commits to cve:main
   - [Update Sun Apr 12 11:18:45 UTC 2026](https://github.com/trickest/cve/commit/28abb9503d28d59c03e83d3abc80e080749431a5)
 - InfoSec Write-ups - Medium
@@ -12,8 +14,6 @@
   - [Deception Scenario How Inverted Social Engineering is Redefining the Web3 Recruitment Trap](https://infosecwriteups.com/deception-scenario-how-inverted-social-engineering-is-redefining-the-web3-recruitment-trap-f02b387cd6df?source=rss----7b722bfd1b8d---4)
   - [CVE-2026-21876 — Root cause, Reproduction, Impact and Lessons Learned](https://infosecwriteups.com/cve-2026-21876-root-cause-reproduction-impact-and-lessons-learned-410909440568?source=rss----7b722bfd1b8d---4)
   - [OT Reconnaissance with Wireshark and GrassMarlin](https://infosecwriteups.com/ot-reconnaissance-with-wireshark-and-grassmarlin-26e68ed2aebd?source=rss----7b722bfd1b8d---4)
-- SecWiki News
-  - [SecWiki News 2026-04-12 Review](http://www.sec-wiki.com/?2026-04-12)
 - MaskRay
   - [Recent lld/ELF performance improvements](https://maskray.me/blog/2026-04-12-recent-lld-elf-performance-improvements)
 - Bug Bounty in InfoSec Write-ups on Medium
@@ -30,28 +30,23 @@
   - [X表示其正在减少对“标题党”账户的付款](https://blog.upx8.com/X%E8%A1%A8%E7%A4%BA%E5%85%B6%E6%AD%A3%E5%9C%A8%E5%87%8F%E5%B0%91%E5%AF%B9-%E6%A0%87%E9%A2%98%E5%85%9A-%E8%B4%A6%E6%88%B7%E7%9A%84%E4%BB%98%E6%AC%BE)
   - [特朗普威胁若中国军援伊朗将加征50%关税](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E8%8B%A5%E4%B8%AD%E5%9B%BD%E5%86%9B%E6%8F%B4%E4%BC%8A%E6%9C%97%E5%B0%86%E5%8A%A0%E5%BE%8150-%E5%85%B3%E7%A8%8E)
   - [菲律宾政府要求脸书平台遏制假新闻](https://blog.upx8.com/%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%94%BF%E5%BA%9C%E8%A6%81%E6%B1%82%E8%84%B8%E4%B9%A6%E5%B9%B3%E5%8F%B0%E9%81%8F%E5%88%B6%E5%81%87%E6%96%B0%E9%97%BB)
-  - [日政府将向Rapidus追加支援6000亿日元](https://blog.upx8.com/%E6%97%A5%E6%94%BF%E5%BA%9C%E5%B0%86%E5%90%91Rapidus%E8%BF%BD%E5%8A%A0%E6%94%AF%E6%8F%B46000%E4%BA%BF%E6%97%A5%E5%85%83)
-  - [大量顶尖科研人才正回流中国](https://blog.upx8.com/%E5%A4%A7%E9%87%8F%E9%A1%B6%E5%B0%96%E7%A7%91%E7%A0%94%E4%BA%BA%E6%89%8D%E6%AD%A3%E5%9B%9E%E6%B5%81%E4%B8%AD%E5%9B%BD)
-  - [四家日企成立开发国产AI的新公司](https://blog.upx8.com/%E5%9B%9B%E5%AE%B6%E6%97%A5%E4%BC%81%E6%88%90%E7%AB%8B%E5%BC%80%E5%8F%91%E5%9B%BD%E4%BA%A7AI%E7%9A%84%E6%96%B0%E5%85%AC%E5%8F%B8)
-  - [即时通讯应用XChat即将登陆iPhone和iPad](https://blog.upx8.com/%E5%8D%B3%E6%97%B6%E9%80%9A%E8%AE%AF%E5%BA%94%E7%94%A8XChat%E5%8D%B3%E5%B0%86%E7%99%BB%E9%99%86iPhone%E5%92%8CiPad)
-  - [IPv6 一键开关 - Windows IPv6 管理工具](https://blog.upx8.com/IPv6-Windows-IPv6)
 - 风之栖息地
   - [纪念我那跌宕起伏的2025，也是工作三年多的小结](https://hurricane618.me/2026/04/12/my-2025-and-3-years-working-summary/)
 - 黑鸟
   - [无授权追踪：全球广告情报监控网络全面曝光](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186357&idx=1&sn=fae4053ffc4208043bd0b280b9b73555)
 - 安全学术圈
   - [四川大学；清华大学等：黑客还是幻觉？基于大语言模型的自动化渗透测试全面分析](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495243&idx=1&sn=d863eee8a987d434f3a2f3a2b5b608be)
+- 中国信息安全
+  - [4·15全民国家安全教育日 | 国家安全 头等大事](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261191&idx=1&sn=a65fa4f31b97ae7ce4200ebda6de5e93)
+  - [4·15全民国家安全教育日 | 主题海报来了，请查收！](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261191&idx=2&sn=f535ef132b9c9209d6eb21018dc4c968)
 - 安全圈
   - [【安全圈】知名电脑检测软件 CPU-Z、HWMonitor 被入侵！安装包被投毒 开发者回应](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075585&idx=1&sn=beb1c4000130b2ff57bb5d4e98be2556)
   - [【安全圈】研究人员发现绕过 Apple Intelligence 安全机制的新方法](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075585&idx=2&sn=ae36143b50dc72b50ca6d9b7f9a9213b)
   - [【安全圈】欧洲铁路公司 Eurail 数据泄露，30 万人受影响](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075585&idx=3&sn=53c90760755df6379d29aaa9b00e6dfd)
-- 中国信息安全
-  - [4·15全民国家安全教育日 | 国家安全 头等大事](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261191&idx=1&sn=a65fa4f31b97ae7ce4200ebda6de5e93)
-  - [4·15全民国家安全教育日 | 主题海报来了，请查收！](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261191&idx=2&sn=f535ef132b9c9209d6eb21018dc4c968)
 - 极客公园
   - [宇树机器人逼近博尔特速度极限；Qwen 系列模型累计下载量近 10 亿；小米上调手机价格，K90 Pro Max 上涨 200 元| 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653103823&idx=1&sn=b4d4edad5be0dc85054ebee700e11354)
-- 安全行者老霍
-  - [无需编写任何代码，即可将 Claude Code 变成国家级攻击工具](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486492&idx=1&sn=b1b961826ab636829d145b0756394499)
+- 情报分析师
+  - [美军轰炸了一所小学——问题是，那栋楼已经不再是军事目标十年了](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567574&idx=1&sn=95a99809a288ad1a473d2e073fe0ce7e)
 - Over Security - Cybersecurity news aggregator
   - [Parent Process ID Spoofing](https://roccosicilia.com/2026/04/12/parent-process-id-spoofing/)
   - [Critical Marimo pre-auth RCE flaw now under active exploitation](https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/)
@@ -59,27 +54,27 @@
 - Desync InfoSec
   - [又一个Confluence倒下了：CVE-2023-22527漏洞导致ELPACO-team勒索软件入侵](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489979&idx=1&sn=7c177ee4f22f902eeb36bba930457fcf)
   - [AI驱动漏洞海啸来袭：修复窗口从数周压缩到数小时](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489979&idx=2&sn=10e3e338edf91c89f0cba32705a61c67)
-- 情报分析师
-  - [美军轰炸了一所小学——问题是，那栋楼已经不再是军事目标十年了](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567574&idx=1&sn=95a99809a288ad1a473d2e073fe0ce7e)
+- 安全行者老霍
+  - [无需编写任何代码，即可将 Claude Code 变成国家级攻击工具](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486492&idx=1&sn=b1b961826ab636829d145b0756394499)
 - Have I Been Pwned latest breaches
   - [Hallmark - 1,736,520 breached accounts](https://haveibeenpwned.com/Breach/Hallmark)
-- 白帽子章华鹏
-  - [AI给企业安全带来的新挑战和机遇](https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650238971&idx=1&sn=daf01d547fbd7134e49c4a346d961cd5)
 - ICT Security Magazine
   - [APT31 spiava la Russia: cyber spionaggio cinese infiltrato nel tech russo per anni](https://www.ictsecuritymagazine.com/notizie/apt31-cina-spia-russia/)
-- Daniel Miessler
-  - [AI Only Has to Beat 3/10](https://danielmiessler.com/blog/ai-only-has-to-beat-3-out-of-10?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- RedTeam
+  - [规模化 SAST & SCA 漏洞修复](https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484644&idx=1&sn=2de6211f598ae85287dd08baa0b12b8d)
+- 娜璋AI安全之家
+  - [[AI安全论文] (49)JNCA24 网络威胁狩猎演化技术综述](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247502764&idx=1&sn=f8659afe9c9e7eec6dffdc9da72f0b24)
 - Security Affairs
   - [Adobe fixes actively exploited Acrobat Reader flaw CVE-2026-34621](https://securityaffairs.com/190697/security/adobe-fixes-actively-exploited-acrobat-reader-flaw-cve-2026-34621.html)
   - [Hackers claim control over Venice San Marco anti-flood pumps](https://securityaffairs.com/190679/hacktivism/hackers-claim-control-over-venice-san-marco-anti-flood-pumps.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 92](https://securityaffairs.com/190672/malware/security-affairs-malware-newsletter-round-92.html)
   - [Security Affairs newsletter Round 572 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/190662/security/security-affairs-newsletter-round-572-by-pierluigi-paganini-international-edition.html)
-- 娜璋AI安全之家
-  - [[AI安全论文] (49)JNCA24 网络威胁狩猎演化技术综述](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247502764&idx=1&sn=f8659afe9c9e7eec6dffdc9da72f0b24)
-- RedTeam
-  - [规模化 SAST & SCA 漏洞修复](https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484644&idx=1&sn=2de6211f598ae85287dd08baa0b12b8d)
 - The Hacker News
   - [CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads](https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html)
   - [Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621](https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html)
+- 白帽子章华鹏
+  - [AI给企业安全带来的新挑战和机遇](https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650238971&idx=1&sn=daf01d547fbd7134e49c4a346d961cd5)
+- Daniel Miessler
+  - [AI Only Has to Beat 3/10](https://danielmiessler.com/blog/ai-only-has-to-beat-3-out-of-10?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - 希潭实验室
   - [第163篇：借助AI + Claude + Skills 构建 APK 自动化安全分析工作流](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247488366&idx=1&sn=b0f5335a249f78c89e40144063792147)
