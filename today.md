@@ -2,6 +2,8 @@
 
 - SecWiki News
   - [SecWiki News 2026-05-02 Review](http://www.sec-wiki.com/?2026-05-02)
+- Recent Commits to cve:main
+  - [Update Sat May  2 11:22:26 UTC 2026](https://github.com/trickest/cve/commit/8859c745e6c14d7d268e112d458ebba4f69118f1)
 - Microsoft Security Blog
   - [CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments](https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/)
 - InfoSec Write-ups - Medium
@@ -10,17 +12,19 @@
   - [When Logout Isn’t Really Goodbye: A Subtle Data Exposure Bug.](https://infosecwriteups.com/when-logout-isnt-really-goodbye-a-subtle-data-exposure-bug-271b683ddb9a?source=rss----7b722bfd1b8d---4)
   - [TryHackMe Walkthrough: MBR and GPT Analysis (Beginner to Intermediate Guide)](https://infosecwriteups.com/before-windows-loads-the-hidden-boot-architecture-every-tech-person-should-understand-d2217d9b0b2b?source=rss----7b722bfd1b8d---4)
   - [PART 2: I Published a Scam Expose.](https://infosecwriteups.com/part-2-i-published-a-scam-expose-bc420e0bbc00?source=rss----7b722bfd1b8d---4)
-- Recent Commits to cve:main
-  - [Update Sat May  2 11:22:26 UTC 2026](https://github.com/trickest/cve/commit/8859c745e6c14d7d268e112d458ebba4f69118f1)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [When Logout Isn’t Really Goodbye: A Subtle Data Exposure Bug.](https://infosecwriteups.com/when-logout-isnt-really-goodbye-a-subtle-data-exposure-bug-271b683ddb9a?source=rss----7b722bfd1b8d--bug_bounty)
 - Reverse Engineering
   - [libghidra - SDK for automating Ghidra from Python, Rust, and C++](https://www.reddit.com/r/ReverseEngineering/comments/1t1r6o1/libghidra_sdk_for_automating_ghidra_from_python/)
-  - [Dis- and reassembled game to create this. Think it both looks cool and is technically impressive. Love to talk details but not sure anyone cares. The game's community seems especially unimpressed because something such talent is best not wasted on games or some stuff.](https://www.reddit.com/r/ReverseEngineering/comments/1t240xr/dis_and_reassembled_game_to_create_this_think_it/)
   - [How to build .NET obfuscator - Part II](https://www.reddit.com/r/ReverseEngineering/comments/1t1zbcu/how_to_build_net_obfuscator_part_ii/)
   - [Release: Open-source CAN bus reverse engineering suite tailored for offline ML signal decoding, MitM injection, and UDS analysis.](https://www.reddit.com/r/ReverseEngineering/comments/1t1pbzg/release_opensource_can_bus_reverse_engineering/)
 - Dancho Danchev's Blog - Mind Streams of Information Security Knowledge
   - [When Data Mining Conti Leaks Leads to Actual Binaries and to a Hardcoded C2 With an Encryption Key on Tripod.com - Part Six](https://ddanchev.blogspot.com/2026/05/when-data-mining-conti-leaks-leads-to.html)
+- 奇客Solidot–传递最新科技情报
+  - [英国 NHS 以 AI 为由准备关闭所有开源库](https://www.solidot.org/story?sid=84206)
+  - [杭州法院裁定以 AI 代替人类为由裁员是系违法](https://www.solidot.org/story?sid=84205)
+  - [人可以在睡梦中交流和学习](https://www.solidot.org/story?sid=84204)
+  - [Ask.com 关闭](https://www.solidot.org/story?sid=84203)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [美国脑植入公司在中国对四人开展测试](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E8%84%91%E6%A4%8D%E5%85%A5%E5%85%AC%E5%8F%B8%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%AF%B9%E5%9B%9B%E4%BA%BA%E5%BC%80%E5%B1%95%E6%B5%8B%E8%AF%95)
   - [精神航空公司在航空燃料价格翻倍后停运](https://blog.upx8.com/%E7%B2%BE%E7%A5%9E%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E5%9C%A8%E8%88%AA%E7%A9%BA%E7%87%83%E6%96%99%E4%BB%B7%E6%A0%BC%E7%BF%BB%E5%80%8D%E5%90%8E%E5%81%9C%E8%BF%90)
@@ -45,42 +49,42 @@
   - [iPhone Air 销量疲软，安卓厂商集体叫停超薄旗舰；佳能或将推出 Pocket 相机；腾讯增持游戏科学，持股达 24% | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653105123&idx=1&sn=0e8737cc434ec9bec91b2155ad778b19)
 - M01N Team
   - [5分钟原理分析，20分钟容器逃逸：ApexEye漏洞研究智能体自主攻破"Copy Fail"内核通杀漏洞](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495017&idx=1&sn=21e245531ce13c5507dd18dc05bd3663)
+- Arturo Di Corinto
+  - [Fnsi su istituzione Giornata in ricordo giornalisti uccisi](https://dicorinto.it/associazionismo/fnsi-su-istituzione-giornata-in-ricordo-giornalisti-uccisi/)
+- Over Security - Cybersecurity news aggregator
+  - [Qilin Ransomware: Inside an 88-Day Intrusion](https://cxnrvd.hashnode.dev/operation-black-wing-a-qilin-ransomware-affiliate-engagement-against-an-east-african-logistics-provider)
 - 安全行者老霍
   - [IBM 推出网络安全服务以应对人工智能驱动的网络攻击](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486574&idx=1&sn=637c0fd6f13339ea03dd4f1c0d18710a)
 - Microsoft Security Blog
   - [CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments](https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/)
-- Arturo Di Corinto
-  - [Fnsi su istituzione Giornata in ricordo giornalisti uccisi](https://dicorinto.it/associazionismo/fnsi-su-istituzione-giornata-in-ricordo-giornalisti-uccisi/)
 - Have I Been Pwned latest breaches
   - [ZenBusiness - 5,118,184 breached accounts](https://haveibeenpwned.com/Breach/ZenBusiness)
-- Blackhat Library: Hacking techniques and research
-  - [Need bulk sms outreach provider](https://www.reddit.com/r/blackhat/comments/1t1ce6u/need_bulk_sms_outreach_provider/)
-- Daniel Miessler
-  - [Most Companies Aren't Anywhere Near Ready for AI](https://danielmiessler.com/blog/most-companies-arent-ready-for-ai?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- Information Security
-  - [AI-Generated Malware Hive0163: Slopoly LLM C2 Explained](https://www.reddit.com/r/Information_Security/comments/1t1p2ov/aigenerated_malware_hive0163_slopoly_llm_c2/)
-  - [How do you silently steal $625M? Apparently, with a fake PDF and some patience](https://www.reddit.com/r/Information_Security/comments/1t1olba/how_do_you_silently_steal_625m_apparently_with_a/)
-  - [Is reducing data exposure better than just detecting threats?](https://www.reddit.com/r/Information_Security/comments/1t1lgxh/is_reducing_data_exposure_better_than_just/)
-  - [Built a private chat that self-destructs in 24h — no accounts, no logs](https://www.reddit.com/r/Information_Security/comments/1t1loif/built_a_private_chat_that_selfdestructs_in_24h_no/)
-- Computer Forensics
-  - [Unmasking the Moon: Comparing LunaStealer Samples with MalChela and Claude](https://www.reddit.com/r/computerforensics/comments/1t2032y/unmasking_the_moon_comparing_lunastealer_samples/)
-- netsecstudents: Subreddit for students studying Network Security and its related subjects
-  - [Proof of Selective Triage: Deribit resolving other H1 reports while ghosting Critical researcher for 76+ days](https://www.reddit.com/r/netsecstudents/comments/1t1mw35/proof_of_selective_triage_deribit_resolving_other/)
 - Deep Web
   - [Disabled Accounts](https://www.reddit.com/r/deepweb/comments/1t1yfqs/disabled_accounts/)
-- Over Security - Cybersecurity news aggregator
-  - [Qilin Ransomware: Inside an 88-Day Intrusion](https://cxnrvd.hashnode.dev/operation-black-wing-a-qilin-ransomware-affiliate-engagement-against-an-east-african-logistics-provider)
+- Blackhat Library: Hacking techniques and research
+  - [Need bulk sms outreach provider](https://www.reddit.com/r/blackhat/comments/1t1ce6u/need_bulk_sms_outreach_provider/)
+- Computer Forensics
+  - [Unmasking the Moon: Comparing LunaStealer Samples with MalChela and Claude](https://www.reddit.com/r/computerforensics/comments/1t2032y/unmasking_the_moon_comparing_lunastealer_samples/)
 - Technical Information Security Content & Discussion
   - [Spirit Airlines Liquidation: An Active Azure Endpoint, An Exposed Booking Flow, and $11.48 Domains](https://www.reddit.com/r/netsec/comments/1t25t0n/spirit_airlines_liquidation_an_active_azure/)
   - [How to exfiltrate data using only numeric outputs](https://www.reddit.com/r/netsec/comments/1t1rojr/how_to_exfiltrate_data_using_only_numeric_outputs/)
-- Security Affairs
-  - [Two US cybersecurity experts sentenced in ransomware case, third awaits July ruling](https://securityaffairs.com/191591/cyber-crime/two-us-cybersecurity-experts-sentenced-in-ransomware-case-third-awaits-july-ruling.html)
-  - [Trellix discloses the breach of a code repository](https://securityaffairs.com/191584/data-breach/trellix-discloses-the-breach-of-a-code-repository.html)
-  - [New Deep#Door RAT uses stealth and persistence to target Windows](https://securityaffairs.com/191567/malware/new-deepdoor-rat-uses-stealth-and-persistence-to-target-windows.html)
+- Information Security
+  - [How do you silently steal $625M? Apparently, with a fake PDF and some patience](https://www.reddit.com/r/Information_Security/comments/1t1olba/how_do_you_silently_steal_625m_apparently_with_a/)
+  - [AI-Generated Malware Hive0163: Slopoly LLM C2 Explained](https://www.reddit.com/r/Information_Security/comments/1t1p2ov/aigenerated_malware_hive0163_slopoly_llm_c2/)
+  - [Is reducing data exposure better than just detecting threats?](https://www.reddit.com/r/Information_Security/comments/1t1lgxh/is_reducing_data_exposure_better_than_just/)
+  - [Built a private chat that self-destructs in 24h — no accounts, no logs](https://www.reddit.com/r/Information_Security/comments/1t1loif/built_a_private_chat_that_selfdestructs_in_24h_no/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [Proof of Selective Triage: Deribit resolving other H1 reports while ghosting Critical researcher for 76+ days](https://www.reddit.com/r/netsecstudents/comments/1t1mw35/proof_of_selective_triage_deribit_resolving_other/)
 - The Hacker News
   - [Trellix Confirms Source Code Breach With Unauthorized Repository Access](https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html)
 - Your Open Hacker Community
   - [iPhone as host - penetration testing inquiry](https://www.reddit.com/r/HowToHack/comments/1t1sbf4/iphone_as_host_penetration_testing_inquiry/)
   - [How do hackers get free Steam accounts, keys, and cards?](https://www.reddit.com/r/HowToHack/comments/1t1u6sj/how_do_hackers_get_free_steam_accounts_keys_and/)
+- Security Affairs
+  - [Two US cybersecurity experts sentenced in ransomware case, third awaits July ruling](https://securityaffairs.com/191591/cyber-crime/two-us-cybersecurity-experts-sentenced-in-ransomware-case-third-awaits-july-ruling.html)
+  - [Trellix discloses the breach of a code repository](https://securityaffairs.com/191584/data-breach/trellix-discloses-the-breach-of-a-code-repository.html)
+  - [New Deep#Door RAT uses stealth and persistence to target Windows](https://securityaffairs.com/191567/malware/new-deepdoor-rat-uses-stealth-and-persistence-to-target-windows.html)
+- Daniel Miessler
+  - [Most Companies Aren't Anywhere Near Ready for AI](https://danielmiessler.com/blog/most-companies-arent-ready-for-ai?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - 网安寻路人
   - [五眼联盟发布《智能体AI服务的审慎采用》指导性文件](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247508397&idx=1&sn=a956071df39becd04f5023c51494eaf6)
