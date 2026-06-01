@@ -1,9 +1,9 @@
 # 每日安全资讯（2026-06-01）
 
-- Recent Commits to cve:main
-  - [Update Sun May 31 11:59:23 UTC 2026](https://github.com/trickest/cve/commit/24c57871dd1a8803992820b7f3738e5c52435832)
 - SecWiki News
   - [SecWiki News 2026-05-31 Review](http://www.sec-wiki.com/?2026-05-31)
+- No Headback
+  - [AI 能做复杂需求吗（一）](http://xargin.com/can-ai-impl-complex-requirements/)
 - InfoSec Write-ups - Medium
   - [How I Created 20 Super-Admins in 1 Second: Exploiting a Race Condition in Querybook](https://infosecwriteups.com/how-i-created-20-super-admins-in-1-second-exploiting-a-race-condition-in-querybook-73cee916d6f9?source=rss----7b722bfd1b8d---4)
   - [How I Became the #1 Security Researcher on the DHS Vulnerability Disclosure Program](https://infosecwriteups.com/how-i-became-the-1-security-researcher-on-the-dhs-vulnerability-disclosure-program-cf75da2b83be?source=rss----7b722bfd1b8d---4)
@@ -19,8 +19,8 @@
   - [On Reading SRAMs in IR Images, and Establishing Bounds on Trust](https://www.bunniestudios.com/blog/2026/on-reading-srams-in-ir-images-and-establishing-bounds-on-trust/)
   - [Name that Ware, May 2026](https://www.bunniestudios.com/blog/2026/name-that-ware-may-2026/)
   - [Winner, Name that Ware April 2026](https://www.bunniestudios.com/blog/2026/winner-name-that-ware-april-2026/)
-- No Headback
-  - [AI 能做复杂需求吗（一）](http://xargin.com/can-ai-impl-complex-requirements/)
+- Recent Commits to cve:main
+  - [Update Sun May 31 11:59:23 UTC 2026](https://github.com/trickest/cve/commit/24c57871dd1a8803992820b7f3738e5c52435832)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [How I Created 20 Super-Admins in 1 Second: Exploiting a Race Condition in Querybook](https://infosecwriteups.com/how-i-created-20-super-admins-in-1-second-exploiting-a-race-condition-in-querybook-73cee916d6f9?source=rss----7b722bfd1b8d--bug_bounty)
   - [Blockchain Kya Hota Hai? Bilkul Zero Se Samjho!](https://infosecwriteups.com/blockchain-kya-hota-hai-bilkul-zero-se-samjho-7eb4a11d0596?source=rss----7b722bfd1b8d--bug_bounty)
@@ -30,45 +30,40 @@
   - [SecLeaf Q2 CTF 2026 Writeups](https://infosecwriteups.com/secleaf-q2-ctf-2026-writeups-e44b5326456a?source=rss----7b722bfd1b8d--bug_bounty)
 - Hacking Articles
   - [AI Powered Nmap using ShellGPT](https://www.hackingarticles.in/ai-powered-nmap-using-shellgpt/)
-- 奇客Solidot–传递最新科技情报
-  - [高温会扰乱动物大脑](https://www.solidot.org/story?sid=84444)
-  - [GLP-1 减肥药可能会重塑大脑](https://www.solidot.org/story?sid=84443)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [因潜在安全威胁 美国一航班返航](https://blog.upx8.com/%E5%9B%A0%E6%BD%9C%E5%9C%A8%E5%AE%89%E5%85%A8%E5%A8%81%E8%83%81-%E7%BE%8E%E5%9B%BD%E4%B8%80%E8%88%AA%E7%8F%AD%E8%BF%94%E8%88%AA)
   - [天涯社区宣布：6月1日起正式恢复访问](https://blog.upx8.com/%E5%A4%A9%E6%B6%AF%E7%A4%BE%E5%8C%BA%E5%AE%A3%E5%B8%83-6%E6%9C%881%E6%97%A5%E8%B5%B7%E6%AD%A3%E5%BC%8F%E6%81%A2%E5%A4%8D%E8%AE%BF%E9%97%AE)
   - [NASA确认东北部上空巨响由陨石爆炸引发](https://blog.upx8.com/NASA%E7%A1%AE%E8%AE%A4%E4%B8%9C%E5%8C%97%E9%83%A8%E4%B8%8A%E7%A9%BA%E5%B7%A8%E5%93%8D%E7%94%B1%E9%99%A8%E7%9F%B3%E7%88%86%E7%82%B8%E5%BC%95%E5%8F%91)
-  - [人民锐评：APP窗口乱跳转的“传送门”该关上了](https://blog.upx8.com/%E4%BA%BA%E6%B0%91%E9%94%90%E8%AF%84-APP%E7%AA%97%E5%8F%A3%E4%B9%B1%E8%B7%B3%E8%BD%AC%E7%9A%84-%E4%BC%A0%E9%80%81%E9%97%A8-%E8%AF%A5%E5%85%B3%E4%B8%8A%E4%BA%86)
-  - [Meta公司正在开发一款人工智能吊坠](https://blog.upx8.com/Meta%E5%85%AC%E5%8F%B8%E6%AD%A3%E5%9C%A8%E5%BC%80%E5%8F%91%E4%B8%80%E6%AC%BE%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%8A%E5%9D%A0)
-  - [特朗普拟改《美墨加协定》：半数汽车部件须“美国制造”](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%9F%E6%94%B9-%E7%BE%8E%E5%A2%A8%E5%8A%A0%E5%8D%8F%E5%AE%9A-%E5%8D%8A%E6%95%B0%E6%B1%BD%E8%BD%A6%E9%83%A8%E4%BB%B6%E9%A1%BB-%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0)
-  - [3C认证实施规则移动电源新增多项安全测试要求](https://blog.upx8.com/3C%E8%AE%A4%E8%AF%81%E5%AE%9E%E6%96%BD%E8%A7%84%E5%88%99%E7%A7%BB%E5%8A%A8%E7%94%B5%E6%BA%90%E6%96%B0%E5%A2%9E%E5%A4%9A%E9%A1%B9%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95%E8%A6%81%E6%B1%82)
-  - [中国科学家开发“杀光一切”无人机作战算法](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%BC%80%E5%8F%91-%E6%9D%80%E5%85%89%E4%B8%80%E5%88%87-%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%BD%9C%E6%88%98%E7%AE%97%E6%B3%95)
-  - [微软计划以“不当方式披露漏洞”的罪名起诉零日漏洞发布者](https://blog.upx8.com/%E5%BE%AE%E8%BD%AF%E8%AE%A1%E5%88%92%E4%BB%A5-%E4%B8%8D%E5%BD%93%E6%96%B9%E5%BC%8F%E6%8A%AB%E9%9C%B2%E6%BC%8F%E6%B4%9E-%E7%9A%84%E7%BD%AA%E5%90%8D%E8%B5%B7%E8%AF%89%E9%9B%B6%E6%97%A5%E6%BC%8F%E6%B4%9E%E5%8F%91%E5%B8%83%E8%80%85)
-  - [微软计划以“不当披露漏洞”的罪名起诉零日漏洞发布者](https://blog.upx8.com/%E5%BE%AE%E8%BD%AF%E8%AE%A1%E5%88%92%E4%BB%A5-%E4%B8%8D%E5%BD%93%E6%8A%AB%E9%9C%B2%E6%BC%8F%E6%B4%9E-%E7%9A%84%E7%BD%AA%E5%90%8D%E8%B5%B7%E8%AF%89%E9%9B%B6%E6%97%A5%E6%BC%8F%E6%B4%9E%E5%8F%91%E5%B8%83%E8%80%85)
 - 黑鸟
   - [浏览器里的隐形间谍：FROST攻击如何通过硬盘时序窃取你的隐私](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186885&idx=1&sn=742205bd487fbdbea7d8ed96f15a66cb)
 - 安全学术圈
   - [2025年度海南省科学技术奖受理项目清单（网络空间安全领域）](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495370&idx=1&sn=71934ceaa90e0699d4cdfc7c5b4cb3a8)
+- 奇客Solidot–传递最新科技情报
+  - [高温会扰乱动物大脑](https://www.solidot.org/story?sid=84444)
+  - [GLP-1 减肥药可能会重塑大脑](https://www.solidot.org/story?sid=84443)
+- 丁爸 情报分析师的工具箱
+  - [【情报】湾湾在泰国曼谷的“秘密窃听站”暴露了](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156070&idx=1&sn=34534081ad5bf96fbb6441c817cf2dc1)
 - 极客公园
   - [欧冠落幕，欧足联把「AI」这球传给了阿里](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653107764&idx=1&sn=d410c7dc5d1b9dcf508e28484b51ad39)
   - [Vision Pro 三年没做成的事，Google 想用 Android XR 再赌一次」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653107728&idx=1&sn=1f5efe2a4eebf788e93e9a60abaa01e4)
   - [蓝色起源火箭爆炸重创 NASA 登月计划；微软打造 Copilot 超级应用；多名特斯拉前员工坦言不信赖 FSD | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653107748&idx=1&sn=4ff4c406117f57c27c9ba428af290d6c)
 - 黑哥虾撩
   - [Mythos/GPT5.5 网络安全模型分水岭](https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484563&idx=1&sn=e9bded33936d30ed386da72906bd046f)
-- 丁爸 情报分析师的工具箱
-  - [【情报】湾湾在泰国曼谷的“秘密窃听站”暴露了](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156070&idx=1&sn=34534081ad5bf96fbb6441c817cf2dc1)
+- 我的安全视界观
+  - [【AI复盘】TanStack -> OpenAI供应链攻击](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487484&idx=1&sn=01090035330ca237eecff2c419389f9b)
+- Lenny Zeltser
+  - [A Report Template for Security Assessments](https://zeltser.com/security-assessment-report-template)
 - Over Security
   - [WP Maps Pro bug exploited to create admin accounts on WordPress sites](https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/)
   - [Malware Analysis: Is It About Tools or Mindset?](https://www.secjuice.com/malware-analysis/)
   - [Atlas Menu - 63,926 breached accounts](https://haveibeenpwned.com/Breach/AtlasMenu)
-- SANS Internet Storm Center, InfoCON: green
-  - [YARA-X 1.17.0 Release, (Sun, May 31st)](https://isc.sans.edu/diary/rss/33032)
+- 熵减矩阵
+  - [PrismSpace：40亿token的安卓双开重构之路](https://mp.weixin.qq.com/s?__biz=Mzg2MTc1NDAxMA==&mid=2247485345&idx=1&sn=71c9552686f7eff40eae952e572ebcba)
+- The Hacker News
+  - [Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices](https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html)
 - Security Affairs
   - [CVE-2026-0257: Rapid7 Caught Attackers Abusing Forged VPN Cookies Against Multiple Customers](https://securityaffairs.com/192933/security/cve-2026-0257-rapid7-caught-attackers-abusing-forged-vpn-cookies-against-multiple-customers.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 99](https://securityaffairs.com/192928/security/security-affairs-malware-newsletter-round-99.html)
   - [Security Affairs newsletter Round 579 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/192918/security/security-affairs-newsletter-round-579-by-pierluigi-paganini-international-edition.html)
-- 熵减矩阵
-  - [PrismSpace：40亿token的安卓双开重构之路](https://mp.weixin.qq.com/s?__biz=Mzg2MTc1NDAxMA==&mid=2247485345&idx=1&sn=71c9552686f7eff40eae952e572ebcba)
-- Lenny Zeltser
-  - [A Report Template for Security Assessments](https://zeltser.com/security-assessment-report-template)
-- The Hacker News
-  - [Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices](https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html)
+- SANS Internet Storm Center, InfoCON: green
+  - [YARA-X 1.17.0 Release, (Sun, May 31st)](https://isc.sans.edu/diary/rss/33032)
