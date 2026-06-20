@@ -2,12 +2,6 @@
 
 - Microsoft Security Blog
   - [AutoJack: How a single page can RCE the host running your AI agent](https://www.microsoft.com/en-us/security/blog/2026/06/18/autojack-single-page-rce-host-running-ai-agent/)
-- SecWiki News
-  - [SecWiki News 2026-06-19 Review](http://www.sec-wiki.com/?2026-06-19)
-- Recent Commits to cve:main
-  - [Update Fri Jun 19 11:54:58 UTC 2026](https://github.com/trickest/cve/commit/c8c50fb1d033fa42b62368e4e84bdad49f98b028)
-- ElcomSoft blog
-  - [“Get Verification Code” Is Missing in iOS 18 and iOS 26; Here’s Where It Went](https://blog.elcomsoft.com/2026/06/get-verification-code-is-missing-in-ios-18-and-ios-26-heres-where-it-went/)
 - InfoSec Write-ups - Medium
   - [Breaking Down Two Simple Vulnerabilities That Exposed A School’s Admission Records](https://infosecwriteups.com/breaking-down-two-simple-vulnerabilities-that-exposed-a-schools-admission-records-040bd636a7f3?source=rss----7b722bfd1b8d---4)
   - [BITSCTF 2026 Writeups | OSINT And Steganography / Forensics Challenges](https://infosecwriteups.com/bitsctf-2026-writeups-osint-and-steganography-forensics-challenges-b91257ca0856?source=rss----7b722bfd1b8d---4)
@@ -17,24 +11,38 @@
   - [CRTA Exam Writeup — Passed | CyberWarFare Labs](https://infosecwriteups.com/crta-exam-writeup-passed-cyberwarfare-lab-d55e776c82e7?source=rss----7b722bfd1b8d---4)
   - [Web-RTA Exam Writeup — Passed | CyberWarFare Labs](https://infosecwriteups.com/web-rta-exam-writeup-passed-cyberwarfare-labs-20c6bd74e675?source=rss----7b722bfd1b8d---4)
   - [VulnHub — sunset: dawn | Full Walkthrough](https://infosecwriteups.com/vulnhub-sunset-dawn-full-walkthrough-db12d38d2e3b?source=rss----7b722bfd1b8d---4)
-- Horizon3.ai
-  - [AI Infrastructure Security: Pentesting MCP & Agentic Systems](https://horizon3.ai/intelligence/blogs/ai-infrastructure-pentesting-and-security/)
-- Bug Bounty in InfoSec Write-ups on Medium
-  - [Breaking Down Two Simple Vulnerabilities That Exposed A School’s Admission Records](https://infosecwriteups.com/breaking-down-two-simple-vulnerabilities-that-exposed-a-schools-admission-records-040bd636a7f3?source=rss----7b722bfd1b8d--bug_bounty)
-  - [“Bug Bounty Bootcamp #48: OAuth + XSS ”](https://infosecwriteups.com/bug-bounty-bootcamp-48-oauth-xss-04246084a403?source=rss----7b722bfd1b8d--bug_bounty)
-- PortSwigger Blog
-  - [Burp Extensibility 2026: Awards, Talks, and Highlights](https://portswigger.net/blog/burp-extensibility-2026-awards-talks-and-highlights)
+- ElcomSoft blog
+  - [“Get Verification Code” Is Missing in iOS 18 and iOS 26; Here’s Where It Went](https://blog.elcomsoft.com/2026/06/get-verification-code-is-missing-in-ios-18-and-ios-26-heres-where-it-went/)
+- Recent Commits to cve:main
+  - [Update Fri Jun 19 11:54:58 UTC 2026](https://github.com/trickest/cve/commit/c8c50fb1d033fa42b62368e4e84bdad49f98b028)
+- SecWiki News
+  - [SecWiki News 2026-06-19 Review](http://www.sec-wiki.com/?2026-06-19)
 - GuidePoint Security
   - [BOD 26-04: Risk-based Prioritization is the Latest Mandate to Shake Up Compliance](https://www.guidepointsecurity.com/blog/bod-26-04-risk-based-prioritization-mandate/)
-- SentinelOne
-  - [The Good, the Bad and the Ugly in Cybersecurity – Week 25](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-25-7/)
+- Horizon3.ai
+  - [AI Infrastructure Security: Pentesting MCP & Agentic Systems](https://horizon3.ai/intelligence/blogs/ai-infrastructure-pentesting-and-security/)
 - Malwarebytes
   - [Nearly 15,000 infected websites cleaned in SocGholish crackdown](https://www.malwarebytes.com/blog/news/2026/06/nearly-15000-infected-websites-cleaned-in-socgholish-crackdown)
   - [Apple patches Beats Studio Buds flaw that could turn earbuds into a wiretap](https://www.malwarebytes.com/blog/bugs/2026/06/apple-patches-beats-studio-buds-flaw-that-could-turn-earbuds-into-a-wiretap)
+- SentinelOne
+  - [The Good, the Bad and the Ugly in Cybersecurity – Week 25](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-25-7/)
+- Bug Bounty in InfoSec Write-ups on Medium
+  - [Breaking Down Two Simple Vulnerabilities That Exposed A School’s Admission Records](https://infosecwriteups.com/breaking-down-two-simple-vulnerabilities-that-exposed-a-schools-admission-records-040bd636a7f3?source=rss----7b722bfd1b8d--bug_bounty)
+  - [“Bug Bounty Bootcamp #48: OAuth + XSS ”](https://infosecwriteups.com/bug-bounty-bootcamp-48-oauth-xss-04246084a403?source=rss----7b722bfd1b8d--bug_bounty)
+- Reverse Engineering
+  - [Analyzing Bytes: Pre-Disassembly Static Binary Analysis](https://www.reddit.com/r/ReverseEngineering/comments/1uaasni/analyzing_bytes_predisassembly_static_binary/)
+  - [Martyx00/VulnFanatic-NG: BianryNinja plugin for identifying vulnerabilities in decompiled binaries with both programmatic scans and LLM support.](https://www.reddit.com/r/ReverseEngineering/comments/1u9x25h/martyx00vulnfanaticng_bianryninja_plugin_for/)
+  - [BSim-foundry: pre-built function signatures for zlib, OpenSSL, mbedTLS, SQLite, libcurl and 24 more. headless + GUI + IDA/BN via SightHouse](https://www.reddit.com/r/ReverseEngineering/comments/1u9t4mj/bsimfoundry_prebuilt_function_signatures_for_zlib/)
+- PortSwigger Blog
+  - [Burp Extensibility 2026: Awards, Talks, and Highlights](https://portswigger.net/blog/burp-extensibility-2026-awards-talks-and-highlights)
 - Hacking Articles
   - [BloodHound MCP: Automating Active Directory Analysis with AI](https://www.hackingarticles.in/bloodhound-mcp-automating-active-directory-analysis-with-ai/)
 - PortSwigger Blog
   - [Burp Extensibility 2026: Awards, Talks, and Highlights](https://portswigger.net/blog/burp-extensibility-2026-awards-talks-and-highlights)
+- rtl-sdr.com
+  - [Saveitforparts: Testing a Prototype of the NanoFarfield Portable Antenna Measurement System](https://www.rtl-sdr.com/saveitforparts-testing-a-prototype-of-the-nanofarfield-portable-antenna-measurement-system/)
+- Offensive Security Blog: Latest Trends in Hacking | Praetorian
+  - [GhostPack Necromancy: Reforging C# Tools with WasmForge](https://www.praetorian.com/blog/wasmforge-csharp-ghostpack-edr-evasion/)
 - 奇客Solidot–传递最新科技情报
   - [加州亿万富翁税提案获得足够签名有资格在 11 月公投](https://www.solidot.org/story?sid=84628)
   - [特朗普政府停止拆除洋流观测系统](https://www.solidot.org/story?sid=84627)
@@ -51,29 +59,27 @@
   - [美国参议员提案将AI红利向全体公民分配](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E5%8F%82%E8%AE%AE%E5%91%98%E6%8F%90%E6%A1%88%E5%B0%86AI%E7%BA%A2%E5%88%A9%E5%90%91%E5%85%A8%E4%BD%93%E5%85%AC%E6%B0%91%E5%88%86%E9%85%8D)
   - [Meta与Crusoe达成新的AI算力合作协议](https://blog.upx8.com/Meta%E4%B8%8ECrusoe%E8%BE%BE%E6%88%90%E6%96%B0%E7%9A%84AI%E7%AE%97%E5%8A%9B%E5%90%88%E4%BD%9C%E5%8D%8F%E8%AE%AE)
   - [微软和亚马逊云服务将面临欧盟严厉反垄断监管](https://blog.upx8.com/%E5%BE%AE%E8%BD%AF%E5%92%8C%E4%BA%9A%E9%A9%AC%E9%80%8A%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%B0%86%E9%9D%A2%E4%B8%B4%E6%AC%A7%E7%9B%9F%E4%B8%A5%E5%8E%89%E5%8F%8D%E5%9E%84%E6%96%AD%E7%9B%91%E7%AE%A1)
-  - [亚马逊正调查批评AI数据中心扩张的工程师](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%AD%A3%E8%B0%83%E6%9F%A5%E6%89%B9%E8%AF%84AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E6%89%A9%E5%BC%A0%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%B8%88)
-  - [Anthropic Mythos早期用户仍拥有访问权限](https://blog.upx8.com/Anthropic-Mythos%E6%97%A9%E6%9C%9F%E7%94%A8%E6%88%B7%E4%BB%8D%E6%8B%A5%E6%9C%89%E8%AE%BF%E9%97%AE%E6%9D%83%E9%99%90)
-- Offensive Security Blog: Latest Trends in Hacking | Praetorian
-  - [GhostPack Necromancy: Reforging C# Tools with WasmForge](https://www.praetorian.com/blog/wasmforge-csharp-ghostpack-edr-evasion/)
-- rtl-sdr.com
-  - [Saveitforparts: Testing a Prototype of the NanoFarfield Portable Antenna Measurement System](https://www.rtl-sdr.com/saveitforparts-testing-a-prototype-of-the-nanofarfield-portable-antenna-measurement-system/)
 - 锦行科技
   - [端午・仲夏｜清风入怀，四时安然](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494928&idx=1&sn=a779482eb7d990417b78bce00b9902f6)
-- 黑鸟
-  - [一僵尸网络被曝光与以色列上市公司有关](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187096&idx=1&sn=20637bec5530e3877c70110a533acaee)
 - 全频带阻塞干扰
   - [愿我爱的人和爱我的人皆端午安康🎉🐲😂](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648959355&idx=1&sn=5b26bc8c8caf0f7a481ef9e90cf38e90)
-- 奇安信威胁情报中心
-  - [每周高级威胁情报解读(2026.06.12~06.18)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519174&idx=1&sn=0b59a708b5f42ce1331707af08787fe0)
-- 安全分析与研究
-  - [Lazarus APT组织深度分析报告](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496822&idx=1&sn=d0dc658573a986aa2ee1539ca63eb508)
+- 黑鸟
+  - [一僵尸网络被曝光与以色列上市公司有关](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187096&idx=1&sn=20637bec5530e3877c70110a533acaee)
 - 看雪学苑
   - [2026端午致谢 | 端午安康，致敬每一位并肩的安全伙伴（文末活动赢礼品）](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616782&idx=1&sn=06605c74092850057f6dd4f9ce1ae2aa)
   - [把 .o 变成 .ko：GKI 安全特性的铁幕](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616782&idx=2&sn=bef4d5e72317a35c94b6d9a35359930f)
+- 安全分析与研究
+  - [Lazarus APT组织深度分析报告](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496822&idx=1&sn=d0dc658573a986aa2ee1539ca63eb508)
 - 信息安全国家工程研究中心
   - [粽香迎端午 | 工程中心祝大家端午节安康！](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247504205&idx=1&sn=ac88360e7a658804c4a4f526a2dac371)
+- 奇安信威胁情报中心
+  - [每周高级威胁情报解读(2026.06.12~06.18)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519174&idx=1&sn=0b59a708b5f42ce1331707af08787fe0)
 - 中国信息安全
   - [端午安康](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263856&idx=1&sn=75cd55292b2593e0f06bed7586f18778)
+- 安全圈
+  - [【安全圈】微软安全工具自己"翻车"了？](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077485&idx=1&sn=2f82a2ce79a628832be58c403dc20460)
+  - [【安全圈】紧急！7.5万台防火墙被攻破，你的企业安全防线还扛得住吗？](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077485&idx=2&sn=465792e4afd7cabe02d9ec193207ca5f)
+  - [【安全圈】初级黑客在其 C2 下线后使用 Tailscale 和 OpenSSH 保持访问](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077485&idx=3&sn=be434620de6496c6ffae715bc20c12fe)
 - 慢雾科技
   - [祝大家端午安康！](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505257&idx=1&sn=6c3b20a5297d6bd92070dafac37db9a0)
 - 极客公园
@@ -85,10 +91,40 @@
   - [火绒小问答——「企业版」终端详情功能使用说明](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247534616&idx=2&sn=b9071614abee22b43d15f5064b680964)
   - [【火绒安全周报】世界杯官方赛事系统曝漏洞/新一批重点防范境外恶意网址和恶意IP公布](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247534616&idx=3&sn=95b13e491c2ed2995691a24359d8b1f7)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247534616&idx=4&sn=18a144b4ae7382aa629b67190b9ce518)
+- Microsoft Security Blog
+  - [AutoJack: How a single page can RCE the host running your AI agent](https://www.microsoft.com/en-us/security/blog/2026/06/18/autojack-single-page-rce-host-running-ai-agent/)
 - 迪哥讲事
   - [重置2FA导致的账户劫持](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499582&idx=1&sn=0ed4bda79730aaaa1155f89157f3428b)
-- 360数字安全
-  - [端午龙舟竞渡，360智领安全赛道](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586287&idx=1&sn=9a18baaa1e177f23e3e76fc27760233e)
+- Javvad Malik
+  - [Breach of Confidence: 19 June 2026](https://javvadmalik.com/2026/06/19/breach-of-confidence-19-june-2026/)
+- SANS Internet Storm Center, InfoCON: green
+  - [eBanking Phishing Delivered Through IPv4-Mapped IPv6 Address, (Fri, Jun 19th)](https://isc.sans.edu/diary/rss/33090)
+- Diritto dell'Informatica
+  - [Il “pulsante di recesso” nei contratti online: dal 19 giugno 2026 scatta il nuovo obbligo per le piattaforme digitali](https://www.dirittodellinformatica.it/il-pulsante-di-recesso-nei-contratti-online-dal-19-giugno-2026-scatta-il-nuovo-obbligo-per-le-piattaforme-digitali/)
+- ICT Security Magazine
+  - [Attribuzione: il nemico non si scopre, si decide](https://www.ictsecuritymagazine.com/articoli/attribuzione-il-nemico-si-decide/)
+  - [NIS2 e responsabilità degli organi di gestione: cosa insegna il caso LOGZONE](https://www.ictsecuritymagazine.com/notizie/nis2-responsabilita-organi-gestione-logzone/)
+  - [DDoS: contro 31 Tbps non basta una scatola in sala server](https://www.ictsecuritymagazine.com/cyber-security/ddos-mitigazione/)
+- GRAHAM CLULEY
+  - [Apple’s Hide My Email tweak leaves privacy fans fuming](https://www.bitdefender.com/en-us/blog/hotforsecurity/apples-hide-my-email-tweak-leaves-privacy-fans-fuming)
+  - [Imposter scams cost Americans $3.5 billion in 2025 – and it’s getting worse](https://www.fortra.com/blog/imposter-scams-cost-americans-35-billion-2025-and-its-getting-worse)
+- Security Affairs
+  - [14,971 WordPress Sites Cleaned in Global SocGholish Takedown](https://securityaffairs.com/193893/malware/14971-wordpress-sites-cleaned-in-global-socgholish-takedown.html)
+  - [U.S. CISA adds Splunk Enterprise flaw to its Known Exploited Vulnerabilities catalog and urges agencies to fix it by Sunday](https://securityaffairs.com/193888/security/u-s-cisa-adds-splunk-enterprise-flaw-to-its-known-exploited-vulnerabilities-catalog-and-urges-agencies-to-fix-it-by-sunday.html)
+  - [Peter Thiel ‘s Secret Society Leak Creates a Perfect Target List for Espionage, Influence Operations, and Blackmail](https://securityaffairs.com/193880/intelligence/peter-thiel-secret-society-leak-creates-a-perfect-target-list-for-espionage-influence-operations-and-blackmail.html)
+  - [24 Billion Stolen Credentials Exposed in Massive Data Leak](https://securityaffairs.com/193864/security/24-billion-stolen-credentials-exposed-in-massive-data-leak.html)
+- Deeplinks
+  - [The UK’s New Under-16 Social Media Ban Will Cause More Harm Than It Prevents](https://www.eff.org/deeplinks/2026/06/uks-new-under-16-social-media-ban-will-cause-more-harm-it-prevents)
+  - [EFF Joins 60+ Groups Urging the UK to Halt Face Estimation at the Border](https://www.eff.org/deeplinks/2026/06/joins-60-groups-urging-uk-halt-face-estimation-border)
+- Daniel Miessler
+  - [The Ultimate Prompt For Businesses Being Pushed Into Using AI](https://danielmiessler.com/blog/ultimate-ai-prompt-for-businesses?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- Information Security
+  - [You could file a fake data breach against any company on Maine's official portal. Someone finally did](https://www.reddit.com/r/Information_Security/comments/1ua422n/you_could_file_a_fake_data_breach_against_any/)
+  - [Not going to pretend I have all the answers here, but I want to share what we're seeing in practice because I think the security community needs to be having more honest conversations about this.](https://www.reddit.com/r/Information_Security/comments/1ua6sew/not_going_to_pretend_i_have_all_the_answers_here/)
+  - [Trained a model for cybersecurity - how to test it?](https://www.reddit.com/r/Information_Security/comments/1u9zc9l/trained_a_model_for_cybersecurity_how_to_test_it/)
+  - [Third-Party Security Audit Please 🙏](https://www.reddit.com/r/Information_Security/comments/1u9owrt/thirdparty_security_audit_please/)
+- T00ls安全
+  - [🚩 粽香传情，端午安康！](https://mp.weixin.qq.com/s?__biz=Mzg3NzYzODU5NQ==&mid=2247485802&idx=1&sn=827281267bd0c62b0a6690041d9f2324)
 - Over Security
   - [Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/)
   - [Klue OAuth breach victim list grows as Icarus hackers claim attack](https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/)
@@ -140,31 +176,14 @@
   - [The Hacker News Recognizes ANY.RUN as the Best Security Investigation Platform 2026](https://any.run/cybersecurity-blog/best-security-platform/)
   - [NIS 2, la scadenza del 30 giugno e lo stato reale della compliance nelle aziende italiane](https://www.cybersecurity360.it/legal/nis-2-la-scadenza-del-30-giugno-e-lo-stato-reale-della-compliance-nelle-aziende-italiane/)
   - [Norton 360 Deluxe, l’antivirus fino a 5 dispositivi in sconto del 68%](https://www.cybersecurity360.it/cultura-cyber/antivirus-norton-360-deluxe-offerta-sconto/)
-- 安全圈
-  - [【安全圈】微软安全工具自己"翻车"了？](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077485&idx=1&sn=2f82a2ce79a628832be58c403dc20460)
-  - [【安全圈】紧急！7.5万台防火墙被攻破，你的企业安全防线还扛得住吗？](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077485&idx=2&sn=465792e4afd7cabe02d9ec193207ca5f)
-  - [【安全圈】初级黑客在其 C2 下线后使用 Tailscale 和 OpenSSH 保持访问](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077485&idx=3&sn=be434620de6496c6ffae715bc20c12fe)
-- ICT Security Magazine
-  - [Attribuzione: il nemico non si scopre, si decide](https://www.ictsecuritymagazine.com/articoli/attribuzione-il-nemico-si-decide/)
-  - [NIS2 e responsabilità degli organi di gestione: cosa insegna il caso LOGZONE](https://www.ictsecuritymagazine.com/notizie/nis2-responsabilita-organi-gestione-logzone/)
-  - [DDoS: contro 31 Tbps non basta una scatola in sala server](https://www.ictsecuritymagazine.com/cyber-security/ddos-mitigazione/)
-- Diritto dell'Informatica
-  - [Il “pulsante di recesso” nei contratti online: dal 19 giugno 2026 scatta il nuovo obbligo per le piattaforme digitali](https://www.dirittodellinformatica.it/il-pulsante-di-recesso-nei-contratti-online-dal-19-giugno-2026-scatta-il-nuovo-obbligo-per-le-piattaforme-digitali/)
-- Javvad Malik
-  - [Breach of Confidence: 19 June 2026](https://javvadmalik.com/2026/06/19/breach-of-confidence-19-june-2026/)
-- Microsoft Security Blog
-  - [AutoJack: How a single page can RCE the host running your AI agent](https://www.microsoft.com/en-us/security/blog/2026/06/18/autojack-single-page-rce-host-running-ai-agent/)
-- SANS Internet Storm Center, InfoCON: green
-  - [eBanking Phishing Delivered Through IPv4-Mapped IPv6 Address, (Fri, Jun 19th)](https://isc.sans.edu/diary/rss/33090)
-- Schneier on Security
-  - [Friday Squid Blogging: Victims of Unregulated Squid Fishing](https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-victims-of-unregulated-squid-fishing.html)
-  - [Anthropic’s Fable and the State of AI](https://www.schneier.com/blog/archives/2026/06/anthropics-fable-and-the-state-of-ai.html)
-- GRAHAM CLULEY
-  - [Apple’s Hide My Email tweak leaves privacy fans fuming](https://www.bitdefender.com/en-us/blog/hotforsecurity/apples-hide-my-email-tweak-leaves-privacy-fans-fuming)
-  - [Imposter scams cost Americans $3.5 billion in 2025 – and it’s getting worse](https://www.fortra.com/blog/imposter-scams-cost-americans-35-billion-2025-and-its-getting-worse)
+- 360数字安全
+  - [端午龙舟竞渡，360智领安全赛道](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586287&idx=1&sn=9a18baaa1e177f23e3e76fc27760233e)
 - OnionSec
   - [脑子里的线程很难结束](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485827&idx=1&sn=cf5bcfe6de5ede506b427c6b412775ea)
   - [写 Medium 快一个月了](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485825&idx=1&sn=4729c58871719aff4da4f5df471781e2)
+- Schneier on Security
+  - [Friday Squid Blogging: Victims of Unregulated Squid Fishing](https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-victims-of-unregulated-squid-fishing.html)
+  - [Anthropic’s Fable and the State of AI](https://www.schneier.com/blog/archives/2026/06/anthropics-fable-and-the-state-of-ai.html)
 - The Hacker News
   - [Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain](https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html)
   - [The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes](https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html)
@@ -175,17 +194,5 @@
   - [Forget Data Leakage: Shadow AI's Real Threat Is Access Control](https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html)
   - [Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data](https://thehackernews.com/2026/06/salesforce-disables-klue-app.html)
   - [Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone](https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html)
-- T00ls安全
-  - [🚩 粽香传情，端午安康！](https://mp.weixin.qq.com/s?__biz=Mzg3NzYzODU5NQ==&mid=2247485802&idx=1&sn=827281267bd0c62b0a6690041d9f2324)
-- Deeplinks
-  - [The UK’s New Under-16 Social Media Ban Will Cause More Harm Than It Prevents](https://www.eff.org/deeplinks/2026/06/uks-new-under-16-social-media-ban-will-cause-more-harm-it-prevents)
-  - [EFF Joins 60+ Groups Urging the UK to Halt Face Estimation at the Border](https://www.eff.org/deeplinks/2026/06/joins-60-groups-urging-uk-halt-face-estimation-border)
-- Daniel Miessler
-  - [The Ultimate Prompt For Businesses Being Pushed Into Using AI](https://danielmiessler.com/blog/ultimate-ai-prompt-for-businesses?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- Security Affairs
-  - [14,971 WordPress Sites Cleaned in Global SocGholish Takedown](https://securityaffairs.com/193893/malware/14971-wordpress-sites-cleaned-in-global-socgholish-takedown.html)
-  - [U.S. CISA adds Splunk Enterprise flaw to its Known Exploited Vulnerabilities catalog and urges agencies to fix it by Sunday](https://securityaffairs.com/193888/security/u-s-cisa-adds-splunk-enterprise-flaw-to-its-known-exploited-vulnerabilities-catalog-and-urges-agencies-to-fix-it-by-sunday.html)
-  - [Peter Thiel ‘s Secret Society Leak Creates a Perfect Target List for Espionage, Influence Operations, and Blackmail](https://securityaffairs.com/193880/intelligence/peter-thiel-secret-society-leak-creates-a-perfect-target-list-for-espionage-influence-operations-and-blackmail.html)
-  - [24 Billion Stolen Credentials Exposed in Massive Data Leak](https://securityaffairs.com/193864/security/24-billion-stolen-credentials-exposed-in-massive-data-leak.html)
 - Security Weekly Podcast Network (Audio)
   - [LLMS, Identity, EDR, JiGong, QiLin, Warlock, with Rob Allen from Threatlocker... - Rob Allen - SWN #591](http://sites.libsyn.com/18678/llms-identity-edr-jigong-qilin-warlock-with-rob-allen-from-threatlocker-rob-allen-swn-591)
