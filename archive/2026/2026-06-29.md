@@ -1,9 +1,9 @@
 # 每日安全资讯（2026-06-29）
 
-- SecWiki News
-  - [SecWiki News 2026-06-28 Review](http://www.sec-wiki.com/?2026-06-28)
 - Recent Commits to cve:main
   - [Update Sun Jun 28 12:03:51 UTC 2026](https://github.com/trickest/cve/commit/09a375d66837e902fa5e0ed669a33b65f8bc5544)
+- SecWiki News
+  - [SecWiki News 2026-06-28 Review](http://www.sec-wiki.com/?2026-06-28)
 - MaskRay
   - [Optimizing LLVM's bump allocator](https://maskray.me/blog/2026-06-28-optimizing-llvm-bump-allocator)
 - Reverse Engineering
@@ -24,13 +24,10 @@
   - [加州针对大声流媒体广告的法律即将生效](https://blog.upx8.com/%E5%8A%A0%E5%B7%9E%E9%92%88%E5%AF%B9%E5%A4%A7%E5%A3%B0%E6%B5%81%E5%AA%92%E4%BD%93%E5%B9%BF%E5%91%8A%E7%9A%84%E6%B3%95%E5%BE%8B%E5%8D%B3%E5%B0%86%E7%94%9F%E6%95%88)
   - [GLM-5.2漏洞挖掘能力达到Mythos水平](https://blog.upx8.com/GLM-5-2%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98%E8%83%BD%E5%8A%9B%E8%BE%BE%E5%88%B0Mythos%E6%B0%B4%E5%B9%B3)
   - [四川宜宾市高县附近发生5.5级左右地震](https://blog.upx8.com/%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%B8%82%E9%AB%98%E5%8E%BF%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F5-5%E7%BA%A7%E5%B7%A6%E5%8F%B3%E5%9C%B0%E9%9C%87)
-  - [解决 1Panel PHP 容器时间 UTC 偏差8小时问题](https://blog.upx8.com/1Panel-PHP-UTC-8)
-  - [Netflix现在要求每个用户资料绑定唯一的电子邮件地址](https://blog.upx8.com/Netflix%E7%8E%B0%E5%9C%A8%E8%A6%81%E6%B1%82%E6%AF%8F%E4%B8%AA%E7%94%A8%E6%88%B7%E8%B5%84%E6%96%99%E7%BB%91%E5%AE%9A%E5%94%AF%E4%B8%80%E7%9A%84%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6%E5%9C%B0%E5%9D%80)
-  - [苹果公司又一位高管跳槽至OpenAI公司](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%8F%88%E4%B8%80%E4%BD%8D%E9%AB%98%E7%AE%A1%E8%B7%B3%E6%A7%BD%E8%87%B3OpenAI%E5%85%AC%E5%8F%B8)
-  - [超级热浪席卷欧洲 中国空调“一机难求”](https://blog.upx8.com/%E8%B6%85%E7%BA%A7%E7%83%AD%E6%B5%AA%E5%B8%AD%E5%8D%B7%E6%AC%A7%E6%B4%B2-%E4%B8%AD%E5%9B%BD%E7%A9%BA%E8%B0%83-%E4%B8%80%E6%9C%BA%E9%9A%BE%E6%B1%82)
-  - [由于算力紧张谷歌限制了Meta的Gemini使用量](https://blog.upx8.com/%E7%94%B1%E4%BA%8E%E7%AE%97%E5%8A%9B%E7%B4%A7%E5%BC%A0%E8%B0%B7%E6%AD%8C%E9%99%90%E5%88%B6%E4%BA%86Meta%E7%9A%84Gemini%E4%BD%BF%E7%94%A8%E9%87%8F)
 - 黑鸟
   - [针对一国家开展开源情报收集框架](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187446&idx=1&sn=98636d62c7f755c20927c0631e874bfe)
+- 我的安全视界观
+  - [【AI复盘】CDN密钥泄露致百万级攻击事件](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487705&idx=1&sn=da85d514fc946fbad63efde0694c74ec)
 - 青衣十三楼飞花堂
   - [这种是不是就是所谓的逆等线？](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489655&idx=1&sn=2ff45fa3cee574e64d540bf6ce2404dc)
 - 天黑说嘿话
@@ -43,8 +40,6 @@
   - [LLM对齐与越狱攻防技术](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496874&idx=1&sn=d0cb067a7f568bd1225e563f45ed0a7e)
 - 极客公园
   - [DeepSeek V4更新DSpark，推理速度提升80%；Vision Pro 高管加盟 OpenAI 硬件部门；央视曝数码产品网络测评乱象｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109548&idx=1&sn=e3213fad6c19a80e73a83fd68c84aa1a)
-- 丁爸 情报分析师的工具箱
-  - [【资料】《渗透测试员笔记》《地缘政治风险指数开源框架》《人工智能失控风险》](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156402&idx=1&sn=10a1fcd389df07d63da4b8ebcb7faca8)
 - Over Security
   - [Instagram OSINT Techniques](https://secjuice.com/instagram-osint-techniques/)
   - [Email Address OSINT](https://secjuice.com/email-address-osint/)
@@ -55,8 +50,12 @@
   - [Data breach exposes up to 14.2 million email logins at six ISPs](https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/)
   - [Anche la Cina sviluppa l’AI per la cyber: ecco Tulongfeng, quali impatti](https://www.cybersecurity360.it/cybersecurity-nazionale/anche-la-cina-sviluppa-lai-per-la-cyber-ecco-tulongfeng-quali-impatti/)
   - [L’economia dei token e il vero prezzo dell’intelligenza artificiale](https://guerredirete.substack.com/p/leconomia-dei-token-e-il-vero-prezzo)
+- 丁爸 情报分析师的工具箱
+  - [【资料】《渗透测试员笔记》《地缘政治风险指数开源框架》《人工智能失控风险》](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156402&idx=1&sn=10a1fcd389df07d63da4b8ebcb7faca8)
 - Have I Been Pwned latest breaches
   - [Sysco - 2,691,852 breached accounts](https://haveibeenpwned.com/Breach/Sysco)
+- SANS Internet Storm Center, InfoCON: green
+  - [YARA-X 1.18.0 and 1.19.0 Release, (Sun, Jun 28th)](https://isc.sans.edu/diary/rss/33106)
 - ICT Security Magazine
   - [Estorsione senza cifratura: quando l’incidente cambia categoria giuridica (e le metriche smettono di dire la verità)](https://www.ictsecuritymagazine.com/articoli/estorsione-senza-cifratura/)
   - [Mobile application security: l’app gira in casa del nemico](https://www.ictsecuritymagazine.com/cyber-security/mobile-application-security/)
@@ -65,6 +64,8 @@
   - [KDDI Data Breach Impacts up to 14.2 Million Email Accounts at Six ISPs](https://securityaffairs.com/194387/data-breach/kddi-data-breach-impacts-up-to-14-2-million-email-accounts-at-six-isps.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 103](https://securityaffairs.com/194383/malware/security-affairs-malware-newsletter-round-103.html)
   - [Security Affairs newsletter Round 583 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/194372/security/security-affairs-newsletter-round-583-by-pierluigi-paganini-international-edition.html)
+- Computer Forensics
+  - [Need someone with vetted Falcon Sandbox (Hybrid Analysis) access to pull PCAP/JSON from an existing public report](https://www.reddit.com/r/computerforensics/comments/1ui27it/need_someone_with_vetted_falcon_sandbox_hybrid/)
 - OnionSec
   - [好感谢曾经的自己收集了一些生活碎片](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485843&idx=1&sn=19e00258485f73efb5196799d24b00f1)
 - 希潭实验室
