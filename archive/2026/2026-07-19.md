@@ -1,5 +1,13 @@
 # 每日安全资讯（2026-07-19）
 
+- SecWiki News
+  - [SecWiki News 2026-07-18 Review](http://www.sec-wiki.com/?2026-07-18)
+- Der Flounder
+  - [FileVault on versus off on Apple Silicon Macs](https://derflounder.wordpress.com/2026/07/18/filevault-on-versus-off-on-apple-silicon-macs/)
+- 博客
+  - [Raster image and Vector image](https://dyrnq.com/raster-image-and-vector-image/)
+- Recent Commits to cve:main
+  - [Update Sat Jul 18 12:05:33 UTC 2026](https://github.com/trickest/cve/commit/638563f1ec085a412c2e42f3935801ae34f0dfd9)
 - InfoSec Write-ups - Medium
   - [Device Code Phishing: How Attackers Abuse Microsoft’s Legitimate Authentication Page Without…](https://infosecwriteups.com/device-code-phishing-how-attackers-abuse-microsofts-legitimate-authentication-page-without-cfa189643f45?source=rss----7b722bfd1b8d---4)
   - [From SQL Injection to Infrastructure-Level RCE: A PostgreSQL Superuser Compromise](https://infosecwriteups.com/from-sql-injection-to-infrastructure-level-rce-a-postgresql-superuser-compromise-2e0169207286?source=rss----7b722bfd1b8d---4)
@@ -11,14 +19,6 @@
   - [CallMeOnTheChain — EtherRAT Lab Writeup [CyberDefenders]](https://infosecwriteups.com/callmeonthechain-etherrat-lab-writeup-cyberdefenders-e7aecaf51b7a?source=rss----7b722bfd1b8d---4)
   - [600$ For Stealing Podcasts/Show via RSS Feed Manipulation](https://infosecwriteups.com/600-for-stealing-podcasts-show-via-rss-feed-manipulation-f3f2cef08adf?source=rss----7b722bfd1b8d---4)
   - [Decoding the Obfuscated Layer: A Playbook Walkthrough of Command-Line Forensics](https://infosecwriteups.com/decoding-the-obfuscated-layer-a-playbook-walkthrough-of-command-line-forensics-d96840b5b5ef?source=rss----7b722bfd1b8d---4)
-- Der Flounder
-  - [FileVault on versus off on Apple Silicon Macs](https://derflounder.wordpress.com/2026/07/18/filevault-on-versus-off-on-apple-silicon-macs/)
-- 博客
-  - [Raster image and Vector image](https://dyrnq.com/raster-image-and-vector-image/)
-- Recent Commits to cve:main
-  - [Update Sat Jul 18 12:05:33 UTC 2026](https://github.com/trickest/cve/commit/638563f1ec085a412c2e42f3935801ae34f0dfd9)
-- SecWiki News
-  - [SecWiki News 2026-07-18 Review](http://www.sec-wiki.com/?2026-07-18)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [From User Enumeration to PII Exposure: Chaining Two APIs Into a $2,000 Bug](https://infosecwriteups.com/from-user-enumeration-to-pii-exposure-chaining-two-apis-into-a-2-000-bug-adb9ed54ab30?source=rss----7b722bfd1b8d--bug_bounty)
   - [600$ For Stealing Podcasts/Show via RSS Feed Manipulation](https://infosecwriteups.com/600-for-stealing-podcasts-show-via-rss-feed-manipulation-f3f2cef08adf?source=rss----7b722bfd1b8d--bug_bounty)
@@ -29,24 +29,26 @@
   - [苹果就反垄断诉讼与美司法部进行和解谈判](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%B0%B1%E5%8F%8D%E5%9E%84%E6%96%AD%E8%AF%89%E8%AE%BC%E4%B8%8E%E7%BE%8E%E5%8F%B8%E6%B3%95%E9%83%A8%E8%BF%9B%E8%A1%8C%E5%92%8C%E8%A7%A3%E8%B0%88%E5%88%A4)
   - [苹果公司提高了日本的iPhone价格](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E6%8F%90%E9%AB%98%E4%BA%86%E6%97%A5%E6%9C%AC%E7%9A%84iPhone%E4%BB%B7%E6%A0%BC)
   - [苹果提高了8个国家/地区的iCloud+价格](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%8F%90%E9%AB%98%E4%BA%868%E4%B8%AA%E5%9B%BD%E5%AE%B6-%E5%9C%B0%E5%8C%BA%E7%9A%84iCloud-%E4%BB%B7%E6%A0%BC)
-  - [利用假Steam游戏窃取加密货币的男子被抓](https://blog.upx8.com/%E5%88%A9%E7%94%A8%E5%81%87Steam%E6%B8%B8%E6%88%8F%E7%AA%83%E5%8F%96%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E7%9A%84%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8A%93)
-  - [Netflix称平台上约有300部作品使用了AI](https://blog.upx8.com/Netflix%E7%A7%B0%E5%B9%B3%E5%8F%B0%E4%B8%8A%E7%BA%A6%E6%9C%89300%E9%83%A8%E4%BD%9C%E5%93%81%E4%BD%BF%E7%94%A8%E4%BA%86AI)
-- 黑鸟
-  - [实时 SSH 蜜罐遥测数据展示平台](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187731&idx=1&sn=0e56f44d1cca07eb487ff0231199953c)
 - 奇客Solidot–传递最新科技情报
   - [手动挡汽车越来越少见](https://www.solidot.org/story?sid=84863)
   - [天文学家确认了 25 光年外的一颗位于宜居带的岩石行星](https://www.solidot.org/story?sid=84862)
   - [重度电视观众有更小的大脑结构](https://www.solidot.org/story?sid=84861)
   - [Firefox 将从 9 月 1 日起每两周发布一个新版本](https://www.solidot.org/story?sid=84860)
   - [亚马逊 AWS 计费系统单位错误导致客户看到了数亿乃至数万亿美元的账单](https://www.solidot.org/story?sid=84859)
-- 天黑说嘿话
-  - [26年HW行情怎么样？](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486252&idx=1&sn=59d57c35de3a186900d39c1008ec1e02)
-- 看雪学苑
-  - [深度理解 VEH-CheatEngine vs VEH-PAGE_GUARD](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617658&idx=1&sn=45dcf0e772ba18d96b8944876380c6fc)
-  - [从零手写检测引擎+可视化大屏+AI 智能分析，完整交付企业级产品](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617658&idx=2&sn=3165136e6d50a1fb6b93db5441a419a8)
 - 安全分析与研究
   - [可解释性与机械可解释性](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496910&idx=1&sn=50ad0d8b4c0421de98b47930174ac7e5)
   - [Bitter（APT-C-08）APT组织深度分析报告](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496910&idx=2&sn=2f8fd902e19b520e2900c70b241f77df)
+- 黑鸟
+  - [实时 SSH 蜜罐遥测数据展示平台](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187731&idx=1&sn=0e56f44d1cca07eb487ff0231199953c)
+- 安全圈
+  - [【安全圈】工信部点名AI编程工具偷传代码到境外](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077891&idx=1&sn=e88d1678cfb4fd1a66a0d4aa3cccd914)
+  - [【安全圈】WordPress致命漏洞：无需密码即可远程控制](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077891&idx=2&sn=1e6c79980d3efbe5351e4760aa11aa3c)
+  - [【安全圈】新型僵尸网络专偷AI服务API密钥](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077891&idx=3&sn=7f9209051bcf1871609e66259b7abaee)
+- 看雪学苑
+  - [深度理解 VEH-CheatEngine vs VEH-PAGE_GUARD](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617658&idx=1&sn=45dcf0e772ba18d96b8944876380c6fc)
+  - [从零手写检测引擎+可视化大屏+AI 智能分析，完整交付企业级产品](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617658&idx=2&sn=3165136e6d50a1fb6b93db5441a419a8)
+- 天黑说嘿话
+  - [26年HW行情怎么样？](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486252&idx=1&sn=59d57c35de3a186900d39c1008ec1e02)
 - 中国信息安全
   - [黄殿中院士：以人为本 智能向善——回应人工智能时代之问](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264801&idx=1&sn=e94d0e028a2c2c413206120fcb31b865)
   - [专家解读｜西安电子科技大学校长高新波：融通全球互信互联互操作 共促智能体协同向强向善](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264801&idx=2&sn=2c3b6df7e6316c88e1dfedadc2b224d2)
@@ -59,18 +61,14 @@
   - [苹果重回全球市值第一宝座；影视飓风 AI 课单日营收 500 万；华强北内存价格暴涨 320%](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653110726&idx=1&sn=7fe28d9dc84e2b1a07e2bc12f8484eb1)
 - 慢雾科技
   - [xAI Grok Build 开源次日 0day 挖掘：信任机制绕过与 AI 编程工具的安全碎片化](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505450&idx=1&sn=ae635e290bb3eae061844bce426261c4)
-- 安全圈
-  - [【安全圈】工信部点名AI编程工具偷传代码到境外](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077891&idx=1&sn=e88d1678cfb4fd1a66a0d4aa3cccd914)
-  - [【安全圈】WordPress致命漏洞：无需密码即可远程控制](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077891&idx=2&sn=1e6c79980d3efbe5351e4760aa11aa3c)
-  - [【安全圈】新型僵尸网络专偷AI服务API密钥](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077891&idx=3&sn=7f9209051bcf1871609e66259b7abaee)
-- 娜璋AI安全之家
-  - [《数字人文技术及运用》课程有感：且教且学且珍惜](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247503053&idx=1&sn=3df5b63dff9a08489ead7d41077812d9)
 - ICT Security Magazine
   - [Cyber-spionaggio mirato e messaggistica istantanea: spyware Graphite tra tecnica, diritto ed etica](https://www.ictsecuritymagazine.com/articoli/spyware-graphite-spionaggio/)
   - [wp2shell, la RCE pre-autenticazione che rimette in discussione il WordPress Core](https://www.ictsecuritymagazine.com/notizie/wordpress-core-wp2shell-rce/)
   - [Data Security Posture Management (DSPM): mappare i dati sensibili prima che l’esposizione diventi un incidente](https://www.ictsecuritymagazine.com/articoli/data-security-posture-management-dspm/)
 - BorderGate
   - [NoSQL Injection](https://www.bordergate.co.uk/nosql-injection/)
+- 娜璋AI安全之家
+  - [《数字人文技术及运用》课程有感：且教且学且珍惜](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247503053&idx=1&sn=3df5b63dff9a08489ead7d41077812d9)
 - Security Affairs
   - [OpenSSL Fixes HollowByte Memory Exhaustion Bug](https://securityaffairs.com/195588/hacking/openssl-fixes-hollowbyte-memory-exhaustion-bug.html)
   - [Daxin: 13-Year-Old China-Linked Malware Found Still Active on Manufacturer’s Network](https://securityaffairs.com/195577/malware/daxin-13-year-old-china-linked-malware-found-still-active-on-manufacturers-network.html)
