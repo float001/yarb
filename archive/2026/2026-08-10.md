@@ -1,7 +1,5 @@
 # 每日安全资讯（2026-08-10）
 
-- SecWiki News
-  - [SecWiki News 2026-08-09 Review](http://www.sec-wiki.com/?2026-08-09)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2025-7026](https://sploitus.com/exploit?id=A57467E8-B975-5403-A152-68766BC83729&utm_source=rss&utm_medium=rss)
   - [langflow-exploit](https://sploitus.com/exploit?id=96FB054B-D5D3-50DD-8F94-788DFA1EB4D2&utm_source=rss&utm_medium=rss)
@@ -27,15 +25,14 @@
   - [Exploit](https://sploitus.com/exploit?id=0066C1AC-A545-54AD-86CC-5AB89B8400D5&utm_source=rss&utm_medium=rss)
 - Recent Commits to cve:main
   - [Update Sun Aug  9 11:56:48 UTC 2026](https://github.com/trickest/cve/commit/7696bc8f7fdd4c10b8e48ac795333c2f8d828a3b)
+- SecWiki News
+  - [SecWiki News 2026-08-09 Review](http://www.sec-wiki.com/?2026-08-09)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]从模型注意力角度创建一个简单但高效的Agent](https://key08.com/index.php/2026/08/10/3275.html)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-08-09: Traffic Analysis Exercise - First to Last](https://www.malware-traffic-analysis.net/2026/08/09/index.html)
   - [2026-08-07: Seven days of scans and probes and web traffic hitting my web server](https://www.malware-traffic-analysis.net/2026/08/07/index.html)
   - [2026-08-06: Remcos RAT (7.2.5 Pro) infection](https://www.malware-traffic-analysis.net/2026/08/06/index.html)
-- 奇客Solidot–传递最新科技情报
-  - [全世界种植的蔬菜在减少](https://www.solidot.org/story?sid=85045)
-  - [微软 Google 亚马逊 Meta 甲骨文 2027 年负现金流将达到 1250 亿美元](https://www.solidot.org/story?sid=85043)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [古尔曼：苹果秋季发布会很可能定档9月9日](https://blog.upx8.com/%E5%8F%A4%E5%B0%94%E6%9B%BC-%E8%8B%B9%E6%9E%9C%E7%A7%8B%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A%E5%BE%88%E5%8F%AF%E8%83%BD%E5%AE%9A%E6%A1%A39%E6%9C%889%E6%97%A5)
   - [Disney+正在测试一项全新的AI驱动搜索](https://blog.upx8.com/Disney-%E6%AD%A3%E5%9C%A8%E6%B5%8B%E8%AF%95%E4%B8%80%E9%A1%B9%E5%85%A8%E6%96%B0%E7%9A%84AI%E9%A9%B1%E5%8A%A8%E6%90%9C%E7%B4%A2)
@@ -45,30 +42,35 @@
   - [为“喂饱”AI数据中心，亚马逊要在美国建一个超级污染源](https://blog.upx8.com/%E4%B8%BA-%E5%96%82%E9%A5%B1-AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83-%E4%BA%9A%E9%A9%AC%E9%80%8A%E8%A6%81%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%BB%BA%E4%B8%80%E4%B8%AA%E8%B6%85%E7%BA%A7%E6%B1%A1%E6%9F%93%E6%BA%90)
   - [AI创造邪教：聊天机器人正开启一场主张AI权利的造神运动，且收获了不少信徒](https://blog.upx8.com/AI%E5%88%9B%E9%80%A0%E9%82%AA%E6%95%99-%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A3%E5%BC%80%E5%90%AF%E4%B8%80%E5%9C%BA%E4%B8%BB%E5%BC%A0AI%E6%9D%83%E5%88%A9%E7%9A%84%E9%80%A0%E7%A5%9E%E8%BF%90%E5%8A%A8-%E4%B8%94%E6%94%B6%E8%8E%B7%E4%BA%86%E4%B8%8D%E5%B0%91%E4%BF%A1%E5%BE%92)
   - [AI邪教：AI机器人正开启一场主张AI权利的造神运动，且收获了不少信徒](https://blog.upx8.com/AI%E9%82%AA%E6%95%99-AI%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A3%E5%BC%80%E5%90%AF%E4%B8%80%E5%9C%BA%E4%B8%BB%E5%BC%A0AI%E6%9D%83%E5%88%A9%E7%9A%84%E9%80%A0%E7%A5%9E%E8%BF%90%E5%8A%A8-%E4%B8%94%E6%94%B6%E8%8E%B7%E4%BA%86%E4%B8%8D%E5%B0%91%E4%BF%A1%E5%BE%92)
-  - [Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000](https://blog.upx8.com/Cloudflare-AI-%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B5%81%E9%87%8F%E5%B7%B2%E8%B6%85%E8%B6%8A%E4%BA%BA%E7%B1%BB-%E9%A2%84%E8%AE%A1%E4%BA%94%E5%B9%B4%E5%90%8E%E4%BA%BA%E6%9C%BA%E6%B5%81%E9%87%8F%E6%AF%94%E8%BE%BE-1-1000)
+- 奇客Solidot–传递最新科技情报
+  - [全世界种植的蔬菜在减少](https://www.solidot.org/story?sid=85045)
+  - [微软 Google 亚马逊 Meta 甲骨文 2027 年负现金流将达到 1250 亿美元](https://www.solidot.org/story?sid=85043)
 - 黑鸟
   - [AI 穿戴监控无处不在！普通人靠这些技术守住隐私](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188007&idx=1&sn=1a1f778c636ce1a1efcd61117744ed35)
-- 安全分析与研究
-  - [第6篇-勒索软件常见攻击入口TOP10](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496994&idx=1&sn=ac058af740608ff4c8d95a1569f6ad43)
 - 青衣十三楼飞花堂
   - [Pythagorea 22.16+22.17 (过已知点和边的菱形)](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489839&idx=1&sn=41863beab8b4329488f19f5c05b66f99)
 - 奶牛安全
   - [数据泄露情报2026.8.9 - 做成人用品的有福](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489914&idx=1&sn=57ff26e44c631edd70a7c846bb7f0f68)
   - [数据泄露情报2026.8.9 - 做成人用品的有福了](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489907&idx=1&sn=2aab0684978a5b51c9528b0ddb2a7f30)
+- 安全分析与研究
+  - [第6篇-勒索软件常见攻击入口TOP10](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496994&idx=1&sn=ac058af740608ff4c8d95a1569f6ad43)
 - 安全圈
   - [【安全圈】服装品牌李维斯遭黑客攻击，部分企业数据被窃取](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078212&idx=1&sn=82c69a11c8cde7ebde9dbae49bcc8da3)
   - [【安全圈】模块化电脑厂商 Framework 通知全部用户信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078212&idx=2&sn=dc80e0650a9d79fdcba243267e8ea9d5)
   - [【安全圈】安全公司警告新型攻击方式：黑客利用甲骨文 Oracle 数据库作为系统攻击跳板](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078212&idx=3&sn=4e89ce48971bc5bba52fac7ad86b5d10)
+- 极客公园
+  - [顶尖 AI 人才，不敢结婚](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111741&idx=1&sn=bb4efef0d595de5b0741008b26dbc61a)
+  - [OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111734&idx=1&sn=be6c460914c97c5273a19b5652595590)
 - 凌晨一点零三分
   - [跟党走_政策板块日报2026-08-09](https://mp.weixin.qq.com/s?__biz=MzIxMjI0Mzk0OQ==&mid=2247485681&idx=1&sn=a766470187a8dd5c46a8e4cba478022c)
+- Over Security
+  - [Alcon - 218,395 breached accounts](https://haveibeenpwned.com/Breach/Alcon)
 - DEF CON Announcements!
   - [Afterparty at Fontainebleau!](https://defcon.org/html/defcon-34/dc-34-news.html#afterparty)
   - [Badge Sale Sunday at DEF CON](https://defcon.org/html/defcon-34/dc-34-news.html#badgesale)
 - ChaMd5安全团队
   - [HTTP请求头提示词注入在野利用分析](https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247514356&idx=1&sn=6cb4d2880f18c3b570bf28c13c07655b)
 - Have I Been Pwned latest breaches
-  - [Alcon - 218,395 breached accounts](https://haveibeenpwned.com/Breach/Alcon)
-- Over Security
   - [Alcon - 218,395 breached accounts](https://haveibeenpwned.com/Breach/Alcon)
 - Daniel Miessler
   - [Work Just Became Fun for Millions of People](https://danielmiessler.com/blog/work-just-became-fun?utm_source=rss&utm_medium=feed&utm_campaign=website)
@@ -77,6 +79,3 @@
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 109](https://securityaffairs.com/196919/malware/security-affairs-malware-newsletter-round-109.html)
   - [Security Affairs newsletter Round 589 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/196911/security/security-affairs-newsletter-round-589-by-pierluigi-paganini-international-edition.html)
   - [Webmail CSS Attacks Expose a New Risk for AI-Powered Email Tools](https://securityaffairs.com/196899/hacking/webmail-css-attacks-expose-a-new-risk-for-ai-powered-email-tools.html)
-- 极客公园
-  - [顶尖 AI 人才，不敢结婚](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111741&idx=1&sn=bb4efef0d595de5b0741008b26dbc61a)
-  - [OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111734&idx=1&sn=be6c460914c97c5273a19b5652595590)
