@@ -1,9 +1,5 @@
 # 每日安全资讯（2026-08-24）
 
-- SecWiki News
-  - [SecWiki News 2026-08-23 Review](http://www.sec-wiki.com/?2026-08-23)
-- Der Flounder
-  - [Using the Jamf Pro API to retrieve Recovery Lock passwords](https://derflounder.wordpress.com/2026/08/23/using-the-jamf-pro-api-to-retrieve-recovery-lock-passwords/)
 - Sploitus.com Exploits RSS Feed
   - [0day-eds exploit](https://sploitus.com/exploit?id=1CB841FD-4B04-5942-A754-29E7A501B78A&utm_source=rss&utm_medium=rss)
   - [pentesting-lab-ntlm-relay exploit](https://sploitus.com/exploit?id=3F3F9698-88A3-537F-AE19-A82332CCF4CF&utm_source=rss&utm_medium=rss)
@@ -27,22 +23,33 @@
   - [Exploit for Use After Free in Linux Linux_Kernel](https://sploitus.com/exploit?id=0E069C06-6785-5F77-8FDF-57883A08D4DB&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-78122](https://sploitus.com/exploit?id=2DDF171A-EC6F-5014-AC4E-DBE83BFEDB8A&utm_source=rss&utm_medium=rss)
   - [owasp-top10-2025-labs exploit](https://sploitus.com/exploit?id=2B981B2C-4078-5DE2-A9B2-1B74560CE49A&utm_source=rss&utm_medium=rss)
-- Taxodium
-  - [給博客添加純文本版本](https://taxodium.ink/add-plain-text-version-to-blog.html)
-  - [在 Emacs 中用漢典查詢倉頡碼](https://taxodium.ink/query-cangjie-codes-using-han-dian-in-emacs.html)
+- SecWiki News
+  - [SecWiki News 2026-08-23 Review](http://www.sec-wiki.com/?2026-08-23)
+- Der Flounder
+  - [Using the Jamf Pro API to retrieve Recovery Lock passwords](https://derflounder.wordpress.com/2026/08/23/using-the-jamf-pro-api-to-retrieve-recovery-lock-passwords/)
 - Recent Commits to cve:main
   - [Update Sun Aug 23 17:18:34 UTC 2026](https://github.com/trickest/cve/commit/28c457adbaca6f077741d3eb42ba0a7d0cffa4fe)
 - MaskRay
   - [Block frequency](https://maskray.me/blog/block-frequency)
-- 白帽Wiki - 一个简单的wiki
-  - [[2026]防止自己的二进制文件被AI一键逆向](https://key08.com/index.php/2026/08/23/3296.html)
 - Didier Stevens
   - [Update: base64dump.py Version 0.0.31](https://blog.didierstevens.com/2026/08/23/update-base64dump-py-version-0-0-31/)
+- 白帽Wiki - 一个简单的wiki
+  - [[2026]防止自己的二进制文件被AI一键逆向](https://key08.com/index.php/2026/08/23/3296.html)
+- Reverse Engineering
+  - [A short Story of hacking a HDMI Encoder](https://www.reddit.com/r/ReverseEngineering/comments/1vw5thl/a_short_story_of_hacking_a_hdmi_encoder/)
+  - [Reverse engineered WoW 3.3.5a's client binary to raise the 25-quest-log cap to 50 — full writeup + patch](https://www.reddit.com/r/ReverseEngineering/comments/1vw894w/reverse_engineered_wow_335as_client_binary_to/)
+  - [SysTrace: SysTrace - Linux System Call Monitor using PTRACE API , It traces system calls, monitors process, file, network, and memory activity, detects suspicious behavior, and generates detailed security reports.](https://www.reddit.com/r/ReverseEngineering/comments/1vwh7rf/systrace_systrace_linux_system_call_monitor_using/)
+  - [I Hacked a Broken Smartwatch and Replaced the Firmware | nRF52832](https://www.reddit.com/r/ReverseEngineering/comments/1vw0plr/i_hacked_a_broken_smartwatch_and_replaced_the/)
+  - [GitHub - Koosjuh/pal-outbreak-2-server: Reviving the online mode of Resident Evil Outbreak File #2 (PAL) on real, unmodified PS2 hardware](https://www.reddit.com/r/ReverseEngineering/comments/1vw4svk/github_koosjuhpaloutbreak2server_reviving_the/)
+  - [[Tool] Strilight: Zero-Unroll O(1) SMT Loop Lifting & Strided Interval Domain for x86_64 Binary Analysis](https://www.reddit.com/r/ReverseEngineering/comments/1vwfsxp/tool_strilight_zerounroll_o1_smt_loop_lifting/)
+  - [I gave a repair tool exactly one worked example. It inferred the rest and fixed 5/5 bugs in code it had never seen — 4 CPU instructions, zero tokens.](https://www.reddit.com/r/ReverseEngineering/comments/1vw6z59/i_gave_a_repair_tool_exactly_one_worked_example/)
 - 奇客Solidot–传递最新科技情报
   - [机器人短跑超越人类，但刹住是问题](https://www.solidot.org/story?sid=85169)
   - [卡巴斯基发现第一种针对汽车的 Android 恶意程序](https://www.solidot.org/story?sid=85168)
   - [柳树和杨树释放出的化合物会恶化城市空气质量](https://www.solidot.org/story?sid=85167)
   - [波兰加密货币交易所 CEO 在 2022 年失踪，4 年后他的继任者也失踪了](https://www.solidot.org/story?sid=85166)
+- 黑鸟
+  - [看不见的车上乘客：安卓车机正悄悄沦为僵尸网络节点](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188210&idx=1&sn=700740b03b1037d3d4e45dbf11a0e045)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [Hugging Face考虑出售估值130亿美元](https://blog.upx8.com/Hugging-Face%E8%80%83%E8%99%91%E5%87%BA%E5%94%AE%E4%BC%B0%E5%80%BC130%E4%BA%BF%E7%BE%8E%E5%85%83)
   - [英国一发电厂七月遭伊朗黑客网络攻击](https://blog.upx8.com/%E8%8B%B1%E5%9B%BD%E4%B8%80%E5%8F%91%E7%94%B5%E5%8E%82%E4%B8%83%E6%9C%88%E9%81%AD%E4%BC%8A%E6%9C%97%E9%BB%91%E5%AE%A2%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB)
@@ -53,8 +60,8 @@
   - [AliExpress被发现静默运行WebAudio指纹](https://blog.upx8.com/AliExpress%E8%A2%AB%E5%8F%91%E7%8E%B0%E9%9D%99%E9%BB%98%E8%BF%90%E8%A1%8CWebAudio%E6%8C%87%E7%BA%B9)
   - [中国教育网联合镜像站正式上线](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2%E7%BD%91%E8%81%94%E5%90%88%E9%95%9C%E5%83%8F%E7%AB%99%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF)
   - [谷歌开源大模型Gemma下载量破10亿次](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8BGemma%E4%B8%8B%E8%BD%BD%E9%87%8F%E7%A0%B410%E4%BA%BF%E6%AC%A1)
-- 黑鸟
-  - [看不见的车上乘客：安卓车机正悄悄沦为僵尸网络节点](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188210&idx=1&sn=700740b03b1037d3d4e45dbf11a0e045)
+- 安全分析与研究
+  - [第18篇-从ATTCK到D3FEND勒索防御体系设计](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497047&idx=1&sn=ab97404fe2bfc9d0d5d28be04f83b8c5)
 - 安全圈
   - [【安全圈】NASA严重安全漏洞，可导致黑客向飞船发送任意指令](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=1&sn=47ca0c1187ff87e4599a50f3f5724193)
   - [【安全圈】WordPress 扩展 曝出 CVSS 满分重大漏洞，可允许黑客写入任意文件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=2&sn=1bd7cb253e8a95883d98fc32b18dae8b)
@@ -68,25 +75,15 @@
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536707&idx=2&sn=d449ac461f50fee4b9ddb88d9ffde959)
 - 看雪学苑
   - [抓紧申报！SDC2026议题征集9月10日截止](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618876&idx=1&sn=d5a93bea0d315fc0ccb3b2b0bab89f70)
-- 安全分析与研究
-  - [第18篇-从ATTCK到D3FEND勒索防御体系设计](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497047&idx=1&sn=ab97404fe2bfc9d0d5d28be04f83b8c5)
-- Troy Hunt's Blog
-  - [Welcoming the Sri Lankan Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/)
 - Have I Been Pwned latest breaches
   - [NIUS - 6,090 breached accounts](https://haveibeenpwned.com/Breach/NIUS)
-- KitPloit - PenTest Tools!
-  - [gvisor](https://kitploit.com/en/tools/github/google/gvisor)
-  - [timesketch](https://kitploit.com/en/tools/github/google/timesketch)
-  - [sleuthkit](https://kitploit.com/en/tools/github/sleuthkit/sleuthkit)
-  - [avml](https://kitploit.com/en/tools/github/microsoft/avml)
-  - [mvt](https://kitploit.com/en/tools/github/mvt-project/mvt)
-  - [testdisk](https://kitploit.com/en/tools/github/cgsecurity/testdisk)
-  - [ALEAPP](https://kitploit.com/en/tools/github/abrignoni/aleapp)
-  - [iLEAPP](https://kitploit.com/en/tools/github/abrignoni/ileapp)
-  - [ipsw](https://kitploit.com/en/tools/github/blacktop/ipsw)
-  - [rustls](https://kitploit.com/en/tools/github/rustls/rustls)
 - Security Affairs
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 111](https://securityaffairs.com/197743/security/security-affairs-malware-newsletter-round-111.html)
   - [UK Power Plant Disabled for Four Days by Iran-Linked Hackers, Concurrent with US Water Attacks](https://securityaffairs.com/197734/cyber-warfare-2/uk-power-plant-disabled-for-four-days-by-iran-linked-hackers-concurrent-with-us-water-attacks.html)
   - [Security Affairs newsletter Round 591 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/197728/breaking-news/security-affairs-newsletter-round-591-by-pierluigi-paganini-international-edition.html)
   - [Zero-Click Grok Chat History Theft: Adversa AI Demonstrates Cryptographic Context Injection](https://securityaffairs.com/197717/hacking/zero-click-grok-chat-history-theft-adversa-ai-demonstrates-cryptographic-context-injection.html)
+- Deep Web
+  - [Which are the largest websites hosting all videos not found on regular web](https://www.reddit.com/r/deepweb/comments/1vwkuhd/which_are_the_largest_websites_hosting_all_videos/)
+  - [Daunt](https://www.reddit.com/r/deepweb/comments/1vwk3lq/daunt/)
+- Troy Hunt's Blog
+  - [Welcoming the Sri Lankan Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/)
