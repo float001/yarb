@@ -1,7 +1,17 @@
 # 每日安全资讯（2026-08-31）
 
+- SecWiki News
+  - [SecWiki News 2026-08-30 Review](http://www.sec-wiki.com/?2026-08-30)
+- bunnie's blog
+  - [Name that Ware, August 2026](https://www.bunniestudios.com/blog/2026/name-that-ware-august-2026/)
+  - [Winner, Name that Ware July 2026](https://www.bunniestudios.com/blog/2026/winner-name-that-ware-july-2026/)
 - Recent Commits to cve:main
   - [Update Sun Aug 30 12:39:30 UTC 2026](https://github.com/trickest/cve/commit/a52834dd8570772b7b17d2629e04d333801b20cd)
+- 安全客-有思想的安全新媒体
+  - [满分预警：ServiceNow连爆3个CVSS 10.0漏洞，无需登录即可接管整个平台](https://www.anquanke.com/post/id/316039)
+  - [用IP情报构建反自动采集防线：转发行为识别与风险画像实战](https://www.anquanke.com/post/id/316035)
+- Taxodium
+  - [Zine#57 - IndieWeb Is Punk、用你的錢包去投票、為終端瀏覧器优化網站](https://taxodium.ink/57.html)
 - InfoSec Write-ups - Medium
   - [He Sent 200,000 Reset Codes to Instagram in 10 Minutes. Instagram Paid Him $30,000.](https://infosecwriteups.com/he-sent-200-000-reset-codes-to-instagram-in-10-minutes-instagram-paid-him-30-000-0afd2bcaa3b2?source=rss----7b722bfd1b8d---4)
   - [How I Scraped Most Dark Stores in India — Blinkit, Zepto & Swiggy Instamart](https://infosecwriteups.com/how-i-scraped-most-dark-stores-in-india-blinkit-zepto-swiggy-instamart-ad939ff17af9?source=rss----7b722bfd1b8d---4)
@@ -11,26 +21,6 @@
   - [I Made Claude Believe I Was an Anthropic-Verified 
 Researcher.](https://infosecwriteups.com/i-made-claude-believe-i-was-an-anthropic-verified-researcher-e38e4fa4716f?source=rss----7b722bfd1b8d---4)
   - [When a Single Text File Breaks a Trust Boundary (Bug Bounty writeup)](https://infosecwriteups.com/when-a-single-text-file-breaks-a-trust-boundary-bug-bounty-writeup-824c1e2dc9f0?source=rss----7b722bfd1b8d---4)
-- SecWiki News
-  - [SecWiki News 2026-08-30 Review](http://www.sec-wiki.com/?2026-08-30)
-- 安全客-有思想的安全新媒体
-  - [满分预警：ServiceNow连爆3个CVSS 10.0漏洞，无需登录即可接管整个平台](https://www.anquanke.com/post/id/316039)
-  - [用IP情报构建反自动采集防线：转发行为识别与风险画像实战](https://www.anquanke.com/post/id/316035)
-- Sploitus.com Exploits RSS Feed
-  - [oppo-pgem10-ghostlock exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-THIASAP-OPPO-PGEM10-GHOSTLOCK&utm_source=rss&utm_medium=rss)
-  - [exr-imageio-poc exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BILLY-ELLIS-EXR-IMAGEIO-POC&utm_source=rss&utm_medium=rss)
-  - [kibana-RCE exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JAS502N-KIBANA-RCE&utm_source=rss&utm_medium=rss)
-  - [FakeMBR exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MALWARETECH-FAKEMBR&utm_source=rss&utm_medium=rss)
-  - [Next.js-Exploit-Tool](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RSATAN-NEXT.JS-EXPLOIT-TOOL&utm_source=rss&utm_medium=rss)
-  - [CVE-2026-50343-InstallService-EoP exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RAT5AK-CVE-2026-50343-INSTALLSERVICE-EOP&utm_source=rss&utm_medium=rss)
-  - [ThrottleStop exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DEMOO1337-THROTTLESTOP&utm_source=rss&utm_medium=rss)
-  - [CVE-2024-7965 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BI-ZONE-CVE-2024-7965&utm_source=rss&utm_medium=rss)
-  - [nexmon exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SEEMOO-LAB-NEXMON&utm_source=rss&utm_medium=rss)
-  - [CVE-2019-11581 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JAS502N-CVE-2019-11581&utm_source=rss&utm_medium=rss)
-  - [CVE-2023-23397 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TRACKFLAW-CVE-2023-23397&utm_source=rss&utm_medium=rss)
-- bunnie's blog
-  - [Name that Ware, August 2026](https://www.bunniestudios.com/blog/2026/name-that-ware-august-2026/)
-  - [Winner, Name that Ware July 2026](https://www.bunniestudios.com/blog/2026/winner-name-that-ware-july-2026/)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [He Sent 200,000 Reset Codes to Instagram in 10 Minutes. Instagram Paid Him $30,000.](https://infosecwriteups.com/he-sent-200-000-reset-codes-to-instagram-in-10-minutes-instagram-paid-him-30-000-0afd2bcaa3b2?source=rss----7b722bfd1b8d--bug_bounty)
   - [I Made Claude Believe I Was an Anthropic-Verified 
@@ -70,8 +60,6 @@ Researcher.](https://infosecwriteups.com/i-made-claude-believe-i-was-an-anthropi
   - [mlkem-native](https://kitploit.com/en/tools/github/pq-code-package/mlkem-native)
   - [HardBreacher](https://kitploit.com/en/tools/github/msnightmare/hardbreacher)
   - [kamene](https://kitploit.com/en/tools/github/phaethon/kamene)
-- 奇客Solidot–传递最新科技情报
-  - [索尼华纳起诉 Anthropic 侵犯版权](https://www.solidot.org/story?sid=85234)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [谷歌地图将安大略湖标记为美国湖](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%9C%B0%E5%9B%BE%E5%B0%86%E5%AE%89%E5%A4%A7%E7%95%A5%E6%B9%96%E6%A0%87%E8%AE%B0%E4%B8%BA%E7%BE%8E%E5%9B%BD%E6%B9%96)
   - [Steam泄露12TB数据 半条命2第三章在列](https://blog.upx8.com/Steam%E6%B3%84%E9%9C%B212TB%E6%95%B0%E6%8D%AE-%E5%8D%8A%E6%9D%A1%E5%91%BD2%E7%AC%AC%E4%B8%89%E7%AB%A0%E5%9C%A8%E5%88%97)
@@ -80,18 +68,23 @@ Researcher.](https://infosecwriteups.com/i-made-claude-believe-i-was-an-anthropi
   - [中国国家数据局：探索适配产业实际的词元商业模式](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%95%B0%E6%8D%AE%E5%B1%80-%E6%8E%A2%E7%B4%A2%E9%80%82%E9%85%8D%E4%BA%A7%E4%B8%9A%E5%AE%9E%E9%99%85%E7%9A%84%E8%AF%8D%E5%85%83%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F)
   - [中国机器人企业依赖英伟达芯片及软件](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%81%E4%B8%9A%E4%BE%9D%E8%B5%96%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87%E5%8F%8A%E8%BD%AF%E4%BB%B6)
   - [索尼等起诉Anthropic 指控窃取知识产权](https://blog.upx8.com/%E7%B4%A2%E5%B0%BC%E7%AD%89%E8%B5%B7%E8%AF%89Anthropic-%E6%8C%87%E6%8E%A7%E7%AA%83%E5%8F%96%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83)
+- 奇客Solidot–传递最新科技情报
+  - [索尼华纳起诉 Anthropic 侵犯版权](https://www.solidot.org/story?sid=85234)
 - 黑鸟
   - [黑客电脑也会被黑：从邮箱到盲眼鹰APT组织工作站的追踪过程](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188360&idx=1&sn=1334366d86068e2473dd8b8717f5a4ab)
-- 安全圈
-  - [【安全圈】cPanel致命漏洞！秒拿服务器root权限](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078524&idx=1&sn=3d59bba62ea3d7dd826441a0ecd67732)
-  - [【安全圈】UniFi全线沦陷！22个漏洞3个满分无需认证](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078524&idx=2&sn=a13ec178b9b59357321f9f8714630c77)
-  - [【安全圈】英国三机场客户数据遭窃！邮箱电话车牌全泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078524&idx=3&sn=6b700d549588250c08bb92ec6a50e2e7)
+- 我的安全视界观
+  - [AI 安全招人，大家抢的是同一种人](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488005&idx=1&sn=9f3995baea50cdd05281f92b80b79783)
+  - [公众号菜单调整通知](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488005&idx=2&sn=92e5f1be9f41590bbe35382588c7df73)
 - 极客公园
   - [折叠屏的尽头，是不折叠：华为 Pura X View 体验](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112946&idx=1&sn=c53289601d462e435621a6fddf7ce504)
   - [造物 100 #04｜AI 为爱做「鸭」、PLAUD 又推新作、字节 TRAE 造了个数字工牌](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112945&idx=1&sn=a4a237f0d3da1cb49d353c57bd581893)
   - [OpenAI 终止与 Cursor 合作；雷军：2600名小米车主行程超 10 万公里；华纳与索尼起诉 Anthropic，索赔数十亿美元 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112936&idx=1&sn=17f8ff01c68a20f714544294b6e9518e)
 - 安全分析与研究
   - [间接系统调用与C2定制](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497080&idx=1&sn=b1e39caf2e63273c5dd98097eff0179b)
+- 安全圈
+  - [【安全圈】cPanel致命漏洞！秒拿服务器root权限](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078524&idx=1&sn=3d59bba62ea3d7dd826441a0ecd67732)
+  - [【安全圈】UniFi全线沦陷！22个漏洞3个满分无需认证](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078524&idx=2&sn=a13ec178b9b59357321f9f8714630c77)
+  - [【安全圈】英国三机场客户数据遭窃！邮箱电话车牌全泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078524&idx=3&sn=6b700d549588250c08bb92ec6a50e2e7)
 - Over Security
   - [FulcrumSec claims Manchester Airports hack, theft of 86 GB of data](https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/)
   - [Chrome Web Store extensions caught stealing crypto, browser data](https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/)
