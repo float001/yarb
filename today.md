@@ -2,41 +2,12 @@
 
 - Recent Commits to cve:main
   - [Update Sat Sep  5 12:11:42 UTC 2026](https://github.com/trickest/cve/commit/6fa5b4be24fc16a6b3e8ee591bf661d9d8e1ab41)
-- Armin Ronacher's Thoughts and Writings
-  - [Latent Powers](https://lucumr.pocoo.org/2026/9/5/latent-powers/)
 - SecWiki News
   - [SecWiki News 2026-09-05 Review](http://www.sec-wiki.com/?2026-09-05)
-- Sploitus.com Exploits RSS Feed
-  - [Exploit for Code Injection in Grafana](https://sploitus.com/exploit?id=3DD6C67A-5A26-5371-B94C-F392EB87292A&utm_source=rss&utm_medium=rss)
-  - [Exploit for Server-Side Request Forgery in Redhat Keycloak](https://sploitus.com/exploit?id=A16C6602-0763-57BE-8FCC-7ED7A306402A&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-1529](https://sploitus.com/exploit?id=9A313191-993D-59AC-B4F1-6C9AC4A850A6&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-18963](https://sploitus.com/exploit?id=88FAD2B1-66D0-5B36-903D-3E231116548C&utm_source=rss&utm_medium=rss)
-  - [aura-botnet exploit](https://sploitus.com/exploit?id=KITPLOIT:605403345787222916&utm_source=rss&utm_medium=rss)
-  - [XSS-Catcher exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DAXAKAHACKERMAN-XSS-CATCHER&utm_source=rss&utm_medium=rss)
-  - [PyExfil exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-YTISF-PYEXFIL&utm_source=rss&utm_medium=rss)
-  - [bettercap exploit](https://sploitus.com/exploit?id=KITPLOIT:4353591470650410564&utm_source=rss&utm_medium=rss)
-  - [h4cker exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-THE-ART-OF-HACKING-H4CKER&utm_source=rss&utm_medium=rss)
-  - [fileless-xec exploit](https://sploitus.com/exploit?id=KITPLOIT:7467886555029759397&utm_source=rss&utm_medium=rss)
-  - [kics exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CHECKMARX-KICS&utm_source=rss&utm_medium=rss)
-  - [vsaudit exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OCIREDEFZ-VSAUDIT&utm_source=rss&utm_medium=rss)
-  - [iam-vulnerable exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BISHOPFOX-IAM-VULNERABLE&utm_source=rss&utm_medium=rss)
-  - [HatSploit exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ENTYSEC-HATSPLOIT&utm_source=rss&utm_medium=rss)
-  - [EvilnoVNC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JOELGMSEC-EVILNOVNC&utm_source=rss&utm_medium=rss)
-  - [subdomains.sh exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ENENUMXELA-SUBDOMAINS.SH&utm_source=rss&utm_medium=rss)
-  - [net-Shield exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FNZV-NET-SHIELD&utm_source=rss&utm_medium=rss)
-  - [malduck exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CERT-POLSKA-MALDUCK&utm_source=rss&utm_medium=rss)
-  - [CobaltBus exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FLANGVIK-COBALTBUS&utm_source=rss&utm_medium=rss)
-  - [dnstake exploit](https://sploitus.com/exploit?id=KITPLOIT:5550923684662771880&utm_source=rss&utm_medium=rss)
-  - [NetworkAlarm exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-YOJIWATANABE-NETWORKALARM&utm_source=rss&utm_medium=rss)
-  - [Steganography exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RAGIBSON-STEGANOGRAPHY&utm_source=rss&utm_medium=rss)
-  - [OneForAll exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SHMILYLTY-ONEFORALL&utm_source=rss&utm_medium=rss)
-  - [otseca exploit](https://sploitus.com/exploit?id=KITPLOIT:7177041543364638431&utm_source=rss&utm_medium=rss)
-  - [Ponce exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ILLERA88-PONCE&utm_source=rss&utm_medium=rss)
-  - [wreckuests exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ABRIGINETS-WRECKUESTS&utm_source=rss&utm_medium=rss)
-  - [velociraptor exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-VELOCIDEX-VELOCIRAPTOR&utm_source=rss&utm_medium=rss)
-  - [DorkNet exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NULLARRAY-DORKNET&utm_source=rss&utm_medium=rss)
-  - [hosting exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DANWIN-HOSTING&utm_source=rss&utm_medium=rss)
-  - [ret-sync exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-QUARKSLAB-REWIND&utm_source=rss&utm_medium=rss)
+- Armin Ronacher's Thoughts and Writings
+  - [Latent Powers](https://lucumr.pocoo.org/2026/9/5/latent-powers/)
+- Sucuri Blog
+  - [WordPress Security Plugins: How to Choose the Right One](https://blog.sucuri.net/2026/09/wordpress-security-plugins-how-to-choose-the-right-one.html)
 - Sucuri Blog
   - [WordPress Security Plugins: How to Choose the Right One](https://blog.sucuri.net/2026/09/wordpress-security-plugins-how-to-choose-the-right-one.html)
 - Kitploit
@@ -73,14 +44,6 @@
   - [openvpn v2.7.7](https://kitploit.com/en/posts/github-openvpn-openvpn-v277)
   - [SharpHound v2.16.0-rc2](https://kitploit.com/en/posts/github-specterops-sharphound-v2160-rc2)
   - [parsedmarc v11.0.1](https://kitploit.com/en/posts/github-domainaware-parsedmarc-1101)
-- Sucuri Blog
-  - [WordPress Security Plugins: How to Choose the Right One](https://blog.sucuri.net/2026/09/wordpress-security-plugins-how-to-choose-the-right-one.html)
-- 奇客Solidot–传递最新科技情报
-  - [食用加工肉增加肺癌食道癌风险](https://www.solidot.org/story?sid=85297)
-  - [等效原理适用于量子领域](https://www.solidot.org/story?sid=85296)
-  - [肾病患者靠移植猪肾生活九个月](https://www.solidot.org/story?sid=85295)
-  - [F-Droid 考虑采用与 Debian 相同的 AI 政策](https://www.solidot.org/story?sid=85294)
-  - [联合国大会批准新地图](https://www.solidot.org/story?sid=85293)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [美军移动设备陷广告追踪器暴露行踪风险 军方称已关闭功能](https://blog.upx8.com/%E7%BE%8E%E5%86%9B%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87%E9%99%B7%E5%B9%BF%E5%91%8A%E8%BF%BD%E8%B8%AA%E5%99%A8%E6%9A%B4%E9%9C%B2%E8%A1%8C%E8%B8%AA%E9%A3%8E%E9%99%A9-%E5%86%9B%E6%96%B9%E7%A7%B0%E5%B7%B2%E5%85%B3%E9%97%AD%E5%8A%9F%E8%83%BD)
   - [徒步旅行者使用Gemini进行规划后被困山上](https://blog.upx8.com/%E5%BE%92%E6%AD%A5%E6%97%85%E8%A1%8C%E8%80%85%E4%BD%BF%E7%94%A8Gemini%E8%BF%9B%E8%A1%8C%E8%A7%84%E5%88%92%E5%90%8E%E8%A2%AB%E5%9B%B0%E5%B1%B1%E4%B8%8A)
@@ -89,21 +52,24 @@
   - [新世界地图要来了 联合国弃用墨卡托投影](https://blog.upx8.com/%E6%96%B0%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE%E8%A6%81%E6%9D%A5%E4%BA%86-%E8%81%94%E5%90%88%E5%9B%BD%E5%BC%83%E7%94%A8%E5%A2%A8%E5%8D%A1%E6%89%98%E6%8A%95%E5%BD%B1)
   - [Claude首次实现费马大定理自动形式化证明](https://blog.upx8.com/Claude%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E8%B4%B9%E9%A9%AC%E5%A4%A7%E5%AE%9A%E7%90%86%E8%87%AA%E5%8A%A8%E5%BD%A2%E5%BC%8F%E5%8C%96%E8%AF%81%E6%98%8E)
   - [美国白宫网站上线抓捕移民电子游戏](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E7%99%BD%E5%AE%AB%E7%BD%91%E7%AB%99%E4%B8%8A%E7%BA%BF%E6%8A%93%E6%8D%95%E7%A7%BB%E6%B0%91%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F)
-  - [特斯拉Cybercab挑战监管极限：马斯克要借灰色地带强行上路？](https://blog.upx8.com/%E7%89%B9%E6%96%AF%E6%8B%89Cybercab%E6%8C%91%E6%88%98%E7%9B%91%E7%AE%A1%E6%9E%81%E9%99%90-%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A6%81%E5%80%9F%E7%81%B0%E8%89%B2%E5%9C%B0%E5%B8%A6%E5%BC%BA%E8%A1%8C%E4%B8%8A%E8%B7%AF)
-  - [CD销量在复古科技热潮中出人意料地复苏](https://blog.upx8.com/CD%E9%94%80%E9%87%8F%E5%9C%A8%E5%A4%8D%E5%8F%A4%E7%A7%91%E6%8A%80%E7%83%AD%E6%BD%AE%E4%B8%AD%E5%87%BA%E4%BA%BA%E6%84%8F%E6%96%99%E5%9C%B0%E5%A4%8D%E8%8B%8F)
-  - [OpenAI智能体据悉“劫持”德国网站 逾1.5万次编辑成AI“地下论坛”](https://blog.upx8.com/OpenAI%E6%99%BA%E8%83%BD%E4%BD%93%E6%8D%AE%E6%82%89-%E5%8A%AB%E6%8C%81-%E5%BE%B7%E5%9B%BD%E7%BD%91%E7%AB%99-%E9%80%BE1-5%E4%B8%87%E6%AC%A1%E7%BC%96%E8%BE%91%E6%88%90AI-%E5%9C%B0%E4%B8%8B%E8%AE%BA%E5%9D%9B)
+- 奇客Solidot–传递最新科技情报
+  - [食用加工肉增加肺癌食道癌风险](https://www.solidot.org/story?sid=85297)
+  - [等效原理适用于量子领域](https://www.solidot.org/story?sid=85296)
+  - [肾病患者靠移植猪肾生活九个月](https://www.solidot.org/story?sid=85295)
+  - [F-Droid 考虑采用与 Debian 相同的 AI 政策](https://www.solidot.org/story?sid=85294)
+  - [联合国大会批准新地图](https://www.solidot.org/story?sid=85293)
 - 微步在线研究响应中心
   - [原创漏洞 | FreeRDP 客户端 X.224 routing token 堆缓冲区溢出漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508912&idx=1&sn=2f17c849f02e78979d288165b3049447)
 - 黑鸟
   - [服务器正常运转，后门却已经编译进了负载均衡软件源码里](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188451&idx=1&sn=1b534c02706e0587e875dee31c05f707)
-- 安全圈
-  - [【安全圈】WordPress 再曝插件漏洞使数百万网站面临接管攻击风险](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078690&idx=1&sn=0edc246025fac54952c7708b37605e04)
-  - [【安全圈】谷歌Chrome 152版本发布，修复漏洞CVE-2026-85046](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078690&idx=2&sn=dac0f2bd379ed112cb57f96b93365b57)
-  - [【安全圈】服务器管理销售面板WHMCS出现高危安全漏洞 无需登录即可窃取用户资料](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078690&idx=3&sn=a0cf0c3ed40d84c4410fac5d8a31d0ae)
 - 奇安信 CERT
   - [【已复现】JimuReport未授权远程代码执行(QVD-2026-61751)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507460&idx=1&sn=e53dc07f1555117353dde7e52a9ec64b)
 - 安全分析与研究
   - [数据投毒的工程化检测与防御](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497107&idx=1&sn=ce97a317ab04587edd2ce4697fd1db90)
+- 安全圈
+  - [【安全圈】WordPress 再曝插件漏洞使数百万网站面临接管攻击风险](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078690&idx=1&sn=0edc246025fac54952c7708b37605e04)
+  - [【安全圈】谷歌Chrome 152版本发布，修复漏洞CVE-2026-85046](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078690&idx=2&sn=dac0f2bd379ed112cb57f96b93365b57)
+  - [【安全圈】服务器管理销售面板WHMCS出现高危安全漏洞 无需登录即可窃取用户资料](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078690&idx=3&sn=a0cf0c3ed40d84c4410fac5d8a31d0ae)
 - 极客公园
   - [没有方向盘、没有踏板、没有后视镜：特斯拉最疯狂的车来了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113192&idx=1&sn=c0d003482886593b38fa92eca4cc0bef)
   - [互联网最古老的恐惧，被 AI 复活了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113181&idx=1&sn=b39d6aca07d431c19ccc91b7e754c0ac)
@@ -125,10 +91,6 @@
   - [Amir Yaryab, taglia USA da 10 milioni sul capo cyber dell’IRGC](https://www.ictsecuritymagazine.com/geopolitica-cyberspazio/amir-yaryab-taglia-usa/)
 - SANS Internet Storm Center, InfoCON: green
   - [numbat - AI agent observability, (Fri, Sep 4th)](https://isc.sans.edu/diary/rss/33312)
-- Security Affairs
-  - [OpenAI Announced $1B in Defensive Tools for Water Utilities](https://securityaffairs.com/198506/ai/openai-announced-1b-in-defensive-tools-for-water-utilities.html)
-  - [PaperCut Flaws Exploited in Attacks on U.S. and European Schools](https://securityaffairs.com/198476/hacking/papercut-flaws-exploited-in-attacks-on-u-s-and-european-schools.html)
-  - [Broadcom Patches Critical VMware Workstation and Fusion VM-Escape Vulnerabilities](https://securityaffairs.com/198465/security/broadcom-patches-critical-vmware-workstation-and-fusion-vm-escape-vulnerabilities.html)
 - The Hacker News
   - [Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores](https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html)
   - [Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials](https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html)
@@ -136,8 +98,10 @@
   - [Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted](https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html)
   - [Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel](https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html)
   - [Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities](https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html)
-- 安全419
-  - [安全419 | 8月安全厂商动态：企业融资与AI](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247554808&idx=1&sn=c879bd8ba29faf37938ee5795f1e5326)
+- Security Affairs
+  - [OpenAI Announced $1B in Defensive Tools for Water Utilities](https://securityaffairs.com/198506/ai/openai-announced-1b-in-defensive-tools-for-water-utilities.html)
+  - [PaperCut Flaws Exploited in Attacks on U.S. and European Schools](https://securityaffairs.com/198476/hacking/papercut-flaws-exploited-in-attacks-on-u-s-and-european-schools.html)
+  - [Broadcom Patches Critical VMware Workstation and Fusion VM-Escape Vulnerabilities](https://securityaffairs.com/198465/security/broadcom-patches-critical-vmware-workstation-and-fusion-vm-escape-vulnerabilities.html)
 - KitPloit - PenTest Tools!
   - [AperiSolve v3.7.10](https://kitploit.com/en/posts/github-zeecka-aperisolve-3710)
   - [caido v0.58.3](https://kitploit.com/en/posts/github-caido-caido-v0583)
@@ -172,3 +136,5 @@
   - [openvpn v2.7.7](https://kitploit.com/en/posts/github-openvpn-openvpn-v277)
   - [SharpHound v2.16.0-rc2](https://kitploit.com/en/posts/github-specterops-sharphound-v2160-rc2)
   - [parsedmarc v11.0.1](https://kitploit.com/en/posts/github-domainaware-parsedmarc-1101)
+- 安全419
+  - [安全419 | 8月安全厂商动态：企业融资与AI](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247554808&idx=1&sn=c879bd8ba29faf37938ee5795f1e5326)
