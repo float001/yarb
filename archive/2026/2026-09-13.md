@@ -2,10 +2,6 @@
 
 - SecWiki News
   - [SecWiki News 2026-09-12 Review](http://www.sec-wiki.com/?2026-09-12)
-- 先知安全技术社区
-  - [游戏逆向-状态类数据查找](https://xz.aliyun.com/news/92818)
-- 先知安全技术社区
-  - [游戏逆向-状态类数据查找](https://xz.aliyun.com/news/92818)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Deserialization of Untrusted Data in Openidentityplatform Openam](https://sploitus.com/exploit?id=B2C95D2F-FF4C-5818-8899-798371B683D2&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-85706](https://sploitus.com/exploit?id=F55B205B-F671-55B3-B8C3-5FDE3B715170&utm_source=rss&utm_medium=rss)
@@ -13,6 +9,14 @@
   - [Forensic-Investigation-of-Web-Attacks-Using-Server-Logs exploit](https://sploitus.com/exploit?id=309B4472-5248-50BC-8ECD-43CBC85D659B&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Write in Google Chrome](https://sploitus.com/exploit?id=14859BF6-CABE-54BE-AF18-C2152F60F38B&utm_source=rss&utm_medium=rss)
   - [CyberStar exploit](https://sploitus.com/exploit?id=0A27806A-A794-5CFC-843A-E91ADED7F7DC&utm_source=rss&utm_medium=rss)
+  - [CVE-2024-50971 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-AKHLAK2511-CVE-2024-50971&utm_source=rss&utm_medium=rss)
+  - [CVE-2023-32407-a-macOS-TCC-bypass-in-Metal exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GERGELYKALMAN-CVE-2023-32407-A-MACOS-TCC-BYPASS-IN-METAL&utm_source=rss&utm_medium=rss)
+  - [CVE-2021-22941 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HOAV18-CVE-2021-22941&utm_source=rss&utm_medium=rss)
+  - [CVE-2024-28995 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-STUUB-CVE-2024-28995&utm_source=rss&utm_medium=rss)
+  - [Vba2Graph exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MALWARECANTFLY-VBA2GRAPH&utm_source=rss&utm_medium=rss)
+  - [red-kube exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LIGHTSPIN-TECH-RED-KUBE&utm_source=rss&utm_medium=rss)
+  - [CVE-2007-2447 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TESTAROSS4-CVE-2007-2447&utm_source=rss&utm_medium=rss)
+  - [CrushFTP-cve-2024-4040-poc exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SAFEER-ACCUKNOX-CRUSHFTP-CVE-2024-4040-POC&utm_source=rss&utm_medium=rss)
   - [CVE-2023-23169 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-S4NSHINE-CVE-2023-23169&utm_source=rss&utm_medium=rss)
   - [CVE-2021-31166 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MAURICELAMBERT-CVE-2021-31166&utm_source=rss&utm_medium=rss)
   - [CVE-2026-9833 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-AJ2108-CVE-2026-9833&utm_source=rss&utm_medium=rss)
@@ -22,27 +26,19 @@
   - [RegPwn exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MDSECACTIVEBREACH-REGPWN&utm_source=rss&utm_medium=rss)
   - [URLextractor exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ESCHULTZE-URLEXTRACTOR&utm_source=rss&utm_medium=rss)
   - [Decodify exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-S0MD3V-DECODIFY&utm_source=rss&utm_medium=rss)
-  - [asus_i005-CVE-2026-43499 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HUAGUIQI-ASUS_I005-CVE-2026-43499&utm_source=rss&utm_medium=rss)
   - [CVE-2026-78006-POC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DEADEXPL0IT-CVE-2026-78006-POC&utm_source=rss&utm_medium=rss)
   - [CVE-2022-1388 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OMNIGODZ-CVE-2022-1388&utm_source=rss&utm_medium=rss)
   - [CVE-2022-26923 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-YOWISE-CVE-2022-26923&utm_source=rss&utm_medium=rss)
   - [CVE-2020-25749 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JET-PENTEST-CVE-2020-25749&utm_source=rss&utm_medium=rss)
   - [cve-2021-33879 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MMISZCZYK-CVE-2021-33879&utm_source=rss&utm_medium=rss)
-  - [wpa_supplicant_8_CVE-2021-0326. exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NANOPATHI-WPA_SUPPLICANT_8_CVE-2021-0326.&utm_source=rss&utm_medium=rss)
-  - [cve-2026-27483-lab exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NABHAN-MOHY-CVE-2026-27483-LAB&utm_source=rss&utm_medium=rss)
-  - [CVE-2018-15982_EXP exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RIDTER-CVE-2018-15982_EXP&utm_source=rss&utm_medium=rss)
-  - [pe-sieve exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HASHEREZADE-PE-SIEVE&utm_source=rss&utm_medium=rss)
-  - [nodriver exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ULTRAFUNKAMSTERDAM-NODRIVER&utm_source=rss&utm_medium=rss)
-  - [bandit exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PYCQA-BANDIT&utm_source=rss&utm_medium=rss)
-  - [jetty-line-check exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-XIAOQIMIKKO-JETTY-LINE-CHECK&utm_source=rss&utm_medium=rss)
-  - [CVE-2017-8056 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ITZEXPLOIT-CVE-2017-8056&utm_source=rss&utm_medium=rss)
-  - [CVE-2018-1207-better exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HIRONULL-CVE-2018-1207-BETTER&utm_source=rss&utm_medium=rss)
 - Armin Ronacher's Thoughts and Writings
   - [P(doom)](https://lucumr.pocoo.org/2026/9/12/pdoom/)
 - Recent Commits to cve:main
   - [Update Sat Sep 12 12:20:52 UTC 2026](https://github.com/trickest/cve/commit/ff7dafee817d7add09a2fac8a0d56d5bed7f9e32)
-- CCC Event Blog
-  - [CCC lädt alle Model Citizens zum 40C3](https://events.ccc.de/2026/09/12/40c3-model-citizens/)
+- 先知安全技术社区
+  - [游戏逆向-状态类数据查找](https://xz.aliyun.com/news/92818)
+- 先知安全技术社区
+  - [游戏逆向-状态类数据查找](https://xz.aliyun.com/news/92818)
 - MaskRay
   - [lld 23 ELF changes](https://maskray.me/blog/lld-23-elf-changes)
 - Reverse Engineering
@@ -85,6 +81,8 @@
   - [tailscale v1.102.4](https://kitploit.com/en/posts/github-tailscale-tailscale-v11024)
   - [ipsw v3.1.716](https://kitploit.com/en/posts/github-blacktop-ipsw-v31716)
   - [ApplicationInspector v1.10.2](https://kitploit.com/en/posts/github-microsoft-applicationinspector-v1102)
+- CCC Event Blog
+  - [CCC lädt alle Model Citizens zum 40C3](https://events.ccc.de/2026/09/12/40c3-model-citizens/)
 - Dhole Moments
   - [The V8 JavaScript Runtime Undermined My Constant-Time JavaScript Library](https://soatok.blog/2026/09/12/the-v8-javascript-runtime-undermined-my-constant-time-javascript-library/)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
@@ -96,54 +94,44 @@
   - [俄罗斯正式启动5G网络商用服务](https://blog.upx8.com/%E4%BF%84%E7%BD%97%E6%96%AF%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A85G%E7%BD%91%E7%BB%9C%E5%95%86%E7%94%A8%E6%9C%8D%E5%8A%A1)
 - 微步在线研究响应中心
   - [CVSS10分Gitlab漏洞究竟能不能读任意文件？](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508929&idx=1&sn=e1657879176766f53a682622be5138d8)
-- 安全学术圈
-  - [会议征文 | 第三届大模型供应链研讨会征稿通知](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495907&idx=1&sn=68942b370ffe423e2e3ee08cc2781cd5)
-- 青衣十三楼飞花堂
-  - [cby讲的教师节段子](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489927&idx=1&sn=d0830ea05e3963c4fb22cc9c56bb52f8)
-- 安全分析与研究
-  - [FDE工程实战02-RAG与Agent系统设计](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497135&idx=1&sn=71a3af0f97a3f7c9792680524286a39f)
 - 黑鸟
   - [失控的大模型：AI 被武器化的真实网络行动案例合集](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188723&idx=1&sn=5d35817e7de53cfa588ad00e2e47fe78)
-- 数世咨询
-  - [速看，OWASP 最新十大 LLM 关键漏洞](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543880&idx=1&sn=d474ac6cfe6b19df9211bf8f04532bd5)
-  - [从Anthropic报告看政企AI落地的数据安全挑战，永信至诚以「原生安全」构建数据「反萃取」防线](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543880&idx=2&sn=5bbf2d71499d8a08fda9ba4f0634a52c)
+- 青衣十三楼飞花堂
+  - [cby讲的教师节段子](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489927&idx=1&sn=d0830ea05e3963c4fb22cc9c56bb52f8)
+- 看雪学苑
+  - [Frida 整体启动逻辑](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619811&idx=1&sn=bfee625d49ac82cbc5ddbde393844170)
+  - [可验证·可复现·可规模化：AI驱动的Windows内核漏洞挖掘与Fuzzing实战](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619811&idx=2&sn=81d4d57b0d4c42643f283bb87a10bd88)
+- 安全分析与研究
+  - [FDE工程实战02-RAG与Agent系统设计](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497135&idx=1&sn=71a3af0f97a3f7c9792680524286a39f)
+- 网络空间安全科学学报
+  - [2026年网络空间安全学术会议通知（第二轮）](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247508516&idx=1&sn=4f4a5577b53a789099be07b333286edd)
+- 极客公园
+  - [AI 时代的「4399」，可把我玩嗨了｜AI 上新](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113496&idx=1&sn=a65a14dedf98f1803cdf7003455e0201)
+  - [月之暗面冲击 20 亿美元 ARR；燧原科技上市，高开 188%；iPhone Duo 二手平台每台涨价 2.4 万｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113475&idx=1&sn=a7ce102635ee294c7814c733acdc1bfe)
+- 丁爸 情报分析师的工具箱
+  - [【资料】美国AI公司报告显示武器开发等机密信息被泄露](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157473&idx=1&sn=5afcf36adfbc99fe3bd4b53a6de8a542)
 - 安全圈
   - [【安全圈】黑客操纵数百个AI Agent：26秒破11家企业，夜袭440台服务器](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078850&idx=1&sn=a1f8892fc8c69e287f340031c3603b4c)
   - [【安全圈】黑客把Claude玩疯了：全自动扒光180万安卓App密钥机密](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078850&idx=2&sn=7b444fc1f876f56f24b4bd8b8fcfb24f)
   - [【安全圈】GitLab曝CVSS 10满分漏洞：免密盗源码，数小时遭在野狂扫](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078850&idx=3&sn=3d7d3bb3a87dca466246957ea44f5c69)
-- 看雪学苑
-  - [Frida 整体启动逻辑](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619811&idx=1&sn=bfee625d49ac82cbc5ddbde393844170)
-  - [可验证·可复现·可规模化：AI驱动的Windows内核漏洞挖掘与Fuzzing实战](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619811&idx=2&sn=81d4d57b0d4c42643f283bb87a10bd88)
-- 情报分析师
-  - [FBI最新网络战略没有一次提到我，但真正的信号都藏在字缝里](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569620&idx=1&sn=db541d930178c03c2193f82678467392)
-- 极客公园
-  - [AI 时代的「4399」，可把我玩嗨了｜AI 上新](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113496&idx=1&sn=a65a14dedf98f1803cdf7003455e0201)
-  - [月之暗面冲击 20 亿美元 ARR；燧原科技上市，高开 188%；iPhone Duo 二手平台每台涨价 2.4 万｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113475&idx=1&sn=a7ce102635ee294c7814c733acdc1bfe)
 - 奇安信病毒响应中心
   - [每周勒索威胁摘要](https://mp.weixin.qq.com/s?__biz=MzI5Mzg5MDM3NQ==&mid=2247498641&idx=1&sn=6ba4c641eb134cbc62b2259ae9609606)
-- 丁爸 情报分析师的工具箱
-  - [【资料】美国AI公司报告显示武器开发等机密信息被泄露](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157473&idx=1&sn=5afcf36adfbc99fe3bd4b53a6de8a542)
-- 吴鲁加
-  - [[翻译]几个人一个月做出 Grok Bot](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486206&idx=1&sn=8e52cabcfe4d31e99f00d74b33491978)
+- 数世咨询
+  - [速看，OWASP 最新十大 LLM 关键漏洞](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543880&idx=1&sn=d474ac6cfe6b19df9211bf8f04532bd5)
+  - [从Anthropic报告看政企AI落地的数据安全挑战，永信至诚以「原生安全」构建数据「反萃取」防线](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543880&idx=2&sn=5bbf2d71499d8a08fda9ba4f0634a52c)
+- 情报分析师
+  - [FBI最新网络战略没有一次提到我，但真正的信号都藏在字缝里](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569620&idx=1&sn=db541d930178c03c2193f82678467392)
 - 渊龙Sec安全团队
   - [针对浏览器Cookie和密码提取的免杀研究](https://mp.weixin.qq.com/s?__biz=Mzg4NTY0MDg1Mg==&mid=2247486017&idx=1&sn=f6d8da61a24972020e858cedc9b4ab21)
-- 网络空间安全科学学报
-  - [2026年网络空间安全学术会议通知（第二轮）](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247508516&idx=1&sn=4f4a5577b53a789099be07b333286edd)
-- The Hacker News
-  - [CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV](https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html)
-  - [When the Whole Company Adopts AI: What It Does to Your SOC](https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html)
-  - [OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers](https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html)
+- 吴鲁加
+  - [[翻译]几个人一个月做出 Grok Bot](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486206&idx=1&sn=8e52cabcfe4d31e99f00d74b33491978)
 - IT Service Management News
   - [Vademecum NIS di ACN](http://blog.cesaregallotti.it/2026/09/vademecum-nis-di-acn.html)
-- Security Affairs
-  - [Revolut Exposed KYC Data After Fraudulent Government Email Passed Security Checks](https://securityaffairs.com/198922/data-breach/revolut-exposed-kyc-data-after-fraudulent-government-email-passed-security-checks.html)
-  - [Anthropic: AI Misuse Is Entering a New Phase: From Cybercrime to Surveillance, Propaganda and Weapons](https://securityaffairs.com/198905/ai/anthropic-ai-misuse-is-entering-a-new-phase-from-cybercrime-to-surveillance-propaganda-and-weapons.html)
-- Information Security
-  - [Florida confirms DMV database breached via stolen police account](https://www.reddit.com/r/Information_Security/comments/1weikr8/florida_confirms_dmv_database_breached_via_stolen/)
-  - [A public ledger of AI cyber incidents](https://www.reddit.com/r/Information_Security/comments/1wervmq/a_public_ledger_of_ai_cyber_incidents/)
-  - [26 SECONDS TO 11 ORGANIZATIONS.](https://www.reddit.com/r/Information_Security/comments/1wefmcv/26_seconds_to_11_organizations/)
-  - [SQLi (SQL Injection) Dockerlabs lab](https://www.reddit.com/r/Information_Security/comments/1wed7ca/sqli_sql_injection_dockerlabs_lab/)
-  - [How are people using Alice to stop their own AI from confidently lying to the entire internet](https://www.reddit.com/r/Information_Security/comments/1wee2da/how_are_people_using_alice_to_stop_their_own_ai/)
+- 安全学术圈
+  - [会议征文 | 第三届大模型供应链研讨会征稿通知](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495907&idx=1&sn=68942b370ffe423e2e3ee08cc2781cd5)
+- Over Security
+  - [Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent](https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/)
+  - [Revolut Confirms Sending Passport and Bitcoin Records to Fake Government Email](https://www.yahoo.com/news/us/articles/revolut-confirms-fake-government-email-092043717.html?guccounter=1)
 - KitPloit - PenTest Tools!
   - [Labtainers v1.4.4n](https://kitploit.com/en/posts/github-mfthomps-labtainers-v144n)
   - [Dropper](https://kitploit.com/en/tools/github/gmh5225/dropper)
@@ -178,8 +166,12 @@
   - [tailscale v1.102.4](https://kitploit.com/en/posts/github-tailscale-tailscale-v11024)
   - [ipsw v3.1.716](https://kitploit.com/en/posts/github-blacktop-ipsw-v31716)
   - [ApplicationInspector v1.10.2](https://kitploit.com/en/posts/github-microsoft-applicationinspector-v1102)
-- Over Security
-  - [Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent](https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/)
-  - [Revolut Confirms Sending Passport and Bitcoin Records to Fake Government Email](https://www.yahoo.com/news/us/articles/revolut-confirms-fake-government-email-092043717.html?guccounter=1)
+- Security Affairs
+  - [Revolut Exposed KYC Data After Fraudulent Government Email Passed Security Checks](https://securityaffairs.com/198922/data-breach/revolut-exposed-kyc-data-after-fraudulent-government-email-passed-security-checks.html)
+  - [Anthropic: AI Misuse Is Entering a New Phase: From Cybercrime to Surveillance, Propaganda and Weapons](https://securityaffairs.com/198905/ai/anthropic-ai-misuse-is-entering-a-new-phase-from-cybercrime-to-surveillance-propaganda-and-weapons.html)
 - OnionSec
   - [我还挺会想的，香港国际机场](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485995&idx=1&sn=7114ff31e830f532e4fc64b53e6ac648)
+- The Hacker News
+  - [CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV](https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html)
+  - [When the Whole Company Adopts AI: What It Does to Your SOC](https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html)
+  - [OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers](https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html)
