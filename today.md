@@ -1,40 +1,38 @@
 # 每日安全资讯（2026-09-20）
 
-- Recent Commits to cve:main
-  - [Update Sat Sep 19 12:26:43 UTC 2026](https://github.com/trickest/cve/commit/d2c1721a31be4adbef7d8969ab2cb94a05da24fb)
-- SecWiki News
-  - [SecWiki News 2026-09-19 Review](http://www.sec-wiki.com/?2026-09-19)
 - Sploitus.com Exploits RSS Feed
   - [CVE-Lib exploit](https://sploitus.com/exploit?id=1C797369-C048-5DA4-8C1B-2A7D2F947D3B&utm_source=rss&utm_medium=rss)
-  - [Exploit for Out-of-bounds Write in Apache Http_Server](https://sploitus.com/exploit?id=4DFF7163-45F2-5F1B-8C53-0A2457A04735&utm_source=rss&utm_medium=rss)
-  - [XSS exploit](https://sploitus.com/exploit?id=F4F1DD77-CA1F-550F-A5C2-24ADB36CEC3A&utm_source=rss&utm_medium=rss)
-  - [WordPress_Exploit_Directory](https://sploitus.com/exploit?id=0EB9F4F7-8A7D-5F65-AC1A-3C9B984C2989&utm_source=rss&utm_medium=rss)
-  - [Exploit for Improper Input Validation in Pyyaml](https://sploitus.com/exploit?id=18D1A3D2-6FE8-571E-B86B-59FAB276CA42&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-77635](https://sploitus.com/exploit?id=7B4261CB-3017-55B1-BF94-54E3BFAE5905&utm_source=rss&utm_medium=rss)
-  - [ravager exploit](https://sploitus.com/exploit?id=5753C8CE-B600-5A5F-99A7-6A50887E4395&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-79752](https://sploitus.com/exploit?id=B2F947B8-06BC-54B0-88A5-23FA78AC1491&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-84434](https://sploitus.com/exploit?id=D48A2A44-5438-5A55-BB24-83D12D1BEF4A&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-89274](https://sploitus.com/exploit?id=D6E93E8E-94F1-5A30-A541-24A9B186A2C1&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-92229](https://sploitus.com/exploit?id=011DBBCC-8BF5-55B8-B490-87EE45256BCF&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-81648](https://sploitus.com/exploit?id=57919D49-CEE8-5763-BEAF-A8533ADFEAC9&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-81294](https://sploitus.com/exploit?id=48C4A700-0E03-52F7-875C-F9D87BAB6F3B&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-13447](https://sploitus.com/exploit?id=98B032FC-3D87-5CAB-B661-7E65A2E87FF2&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-19952](https://sploitus.com/exploit?id=717ED617-F5D0-5276-A354-94701E253E14&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-75816](https://sploitus.com/exploit?id=751B7008-4294-5424-9B57-7C6D983287E9&utm_source=rss&utm_medium=rss)
-  - [Exploit for Deserialization of Untrusted Data in Openidentityplatform Openam](https://sploitus.com/exploit?id=4F84F71A-FCE5-5E76-8939-24380402A468&utm_source=rss&utm_medium=rss)
-  - [Exploit for Improper Verification of Cryptographic Signature in Jfrog Artifactory](https://sploitus.com/exploit?id=6BB288D7-31B1-5430-AA33-4E2F3EBB76B1&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-78159](https://sploitus.com/exploit?id=25925A9A-440F-5661-A8A5-F9E7ED6FA6A3&utm_source=rss&utm_medium=rss)
-  - [pentest-moodle-fiusac exploit](https://sploitus.com/exploit?id=BA9FF0D0-C528-5C8B-825D-CF56CD2BC91D&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-74469](https://sploitus.com/exploit?id=68B0263C-3561-5D37-B655-ABF80B271992&utm_source=rss&utm_medium=rss)
-  - [slowloris exploit](https://sploitus.com/exploit?id=KITPLOIT:762571165268287138&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-68121](https://sploitus.com/exploit?id=F0B4C7CC-787F-5AE1-B99A-0B2494022363&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-81000](https://sploitus.com/exploit?id=8B551184-D244-5E23-B321-D31F06E07A83&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-80844](https://sploitus.com/exploit?id=9E85AB45-2A12-549E-8B45-273E160D104B&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-18937](https://sploitus.com/exploit?id=523694D2-149E-5AFC-A54A-D05DC82BDF4E&utm_source=rss&utm_medium=rss)
-  - [auditsharingan exploit](https://sploitus.com/exploit?id=D519438E-1BF4-5C92-9A3A-D8943382F8EE&utm_source=rss&utm_medium=rss)
-  - [requestcraft exploit](https://sploitus.com/exploit?id=5A62CF71-E9FA-59DE-9737-6B4ABF68B0E8&utm_source=rss&utm_medium=rss)
-  - [ai-gateway-governance-poc exploit](https://sploitus.com/exploit?id=95FEC7C5-20F9-51BA-8477-F10FF696DC5E&utm_source=rss&utm_medium=rss)
-  - [Exploit for Protection Mechanism Failure in Intel Transfer_Learning_Tool](https://sploitus.com/exploit?id=CD6286ED-4B48-5E4D-A648-F264E596BF3F&utm_source=rss&utm_medium=rss)
+  - [bambdas exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PORTSWIGGER-BAMBDAS&utm_source=rss&utm_medium=rss)
+  - [ESFileExplorerOpenPortVuln exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FS0C131Y-ESFILEEXPLOREROPENPORTVULN&utm_source=rss&utm_medium=rss)
+  - [gitbleed_tools exploit](https://sploitus.com/exploit?id=KITPLOIT:9163304201038587351&utm_source=rss&utm_medium=rss)
+  - [deREferencing exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DANIGARGU-DEREFERENCING&utm_source=rss&utm_medium=rss)
+  - [BeRoot exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ALESSANDROZ-BEROOT&utm_source=rss&utm_medium=rss)
+  - [xsscrapy exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DANMCINERNEY-XSSCRAPY&utm_source=rss&utm_medium=rss)
+  - [retoolkit exploit](https://sploitus.com/exploit?id=KITPLOIT:6807617697604597232&utm_source=rss&utm_medium=rss)
+  - [CVE-2023-38831 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MISHRA0230-CVE-2023-38831&utm_source=rss&utm_medium=rss)
+  - [vBulletin_Routestring-RCE exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LUDY-DEV-VBULLETIN_ROUTESTRING-RCE&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-8809 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-IZXCI-CVE-2026-8809&utm_source=rss&utm_medium=rss)
+  - [csv-plus_vulnerability exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NANAAO-CSV-PLUS_VULNERABILITY&utm_source=rss&utm_medium=rss)
+  - [CVE-2025-53770 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DARYLLUNDY-CVE-2025-53770&utm_source=rss&utm_medium=rss)
+  - [CVE-2023-29489.py exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-IPK1-CVE-2023-29489.PY&utm_source=rss&utm_medium=rss)
+  - [TomcatScanPro exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LIZHIANYUGUANGMING-TOMCATSCANPRO&utm_source=rss&utm_medium=rss)
+  - [Swego exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NODAUF-SWEGO&utm_source=rss&utm_medium=rss)
+  - [ligolo-ng exploit](https://sploitus.com/exploit?id=KITPLOIT:8303868592073922276&utm_source=rss&utm_medium=rss)
+  - [toxiproxy exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SHOPIFY-TOXIPROXY&utm_source=rss&utm_medium=rss)
+  - [CVE-2025-29972 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TH-SECFORGE-CVE-2025-29972&utm_source=rss&utm_medium=rss)
+  - [CVE-2024-48245 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SHADOWBYTE1-CVE-2024-48245&utm_source=rss&utm_medium=rss)
+  - [CVE-2022-40684 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HUGHINK-CVE-2022-40684&utm_source=rss&utm_medium=rss)
+  - [CTF-Write-ups exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SYNACKTIV-CTF-WRITE-UPS&utm_source=rss&utm_medium=rss)
+  - [SessionView exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LSECQT-SESSIONVIEW&utm_source=rss&utm_medium=rss)
+  - [no-gdid exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KORBEN00-NO-GDID&utm_source=rss&utm_medium=rss)
+  - [mdk4 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-AIRCRACK-NG-MDK4&utm_source=rss&utm_medium=rss)
+  - [SigFlip exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MED0X2E-SIGFLIP&utm_source=rss&utm_medium=rss)
+  - [playwright exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-REBROWSER-REBROWSER-PATCHES&utm_source=rss&utm_medium=rss)
+  - [getsubdomain exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ABAYKAN-GETSUBDOMAIN&utm_source=rss&utm_medium=rss)
+- SecWiki News
+  - [SecWiki News 2026-09-19 Review](http://www.sec-wiki.com/?2026-09-19)
+- Recent Commits to cve:main
+  - [Update Sat Sep 19 12:26:43 UTC 2026](https://github.com/trickest/cve/commit/d2c1721a31be4adbef7d8969ab2cb94a05da24fb)
 - 安全客-有思想的安全新媒体
   - [3000 美元、3 个人、72 小时：AI 把 OpenAI 的论坛打穿了](https://www.anquanke.com/post/id/316124)
   - [一个月 68 个 CVE、91.8% 没有 OAuth：你的 AI 工具层正在裸奔](https://www.anquanke.com/post/id/316121)
@@ -64,9 +62,6 @@
   - [evmbench-certora-agent-harness](https://kitploit.com/en/tools/github/gmh5225/evmbench-certora-agent-harness)
   - [sslscan v2.2.3](https://kitploit.com/en/posts/github-rbsec-sslscan-223)
   - [faraday v5.24.2](https://kitploit.com/en/posts/github-infobyte-faraday-v5242)
-- Reverse Engineering
-  - [CVE-2026-77179: Docker's hypervisor for Mac compromised (Docker Desktop, Docker Sandboxes)](https://www.reddit.com/r/ReverseEngineering/comments/1wkehjs/cve202677179_dockers_hypervisor_for_mac/)
-  - [New weekly CTF challenge is now live. Ranking is based on solve order.](https://www.reddit.com/r/ReverseEngineering/comments/1wko5uy/new_weekly_ctf_challenge_is_now_live_ranking_is/)
 - 奇客Solidot–传递最新科技情报
   - [大脑由两个不同的器官构成](https://www.solidot.org/story?sid=85426)
   - [Android 17 QPR1 引入了 Pixel 暂时独占的新 API](https://www.solidot.org/story?sid=85425)
@@ -75,6 +70,8 @@
   - [当全网以为现在是2006年](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188860&idx=1&sn=0be1615627475a59dca7d45ba5a12b1b)
 - 安全客
   - [国家信息安全漏洞共享平台认证！360揽获三项漏洞治理核心殊荣](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790491&idx=1&sn=4dcf28d6df4c4eeff6eebcf39bc3dcc4)
+- 我的安全视界观
+  - [AI在企业级漏洞预警中的应用](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488068&idx=1&sn=46340601f344788aa253f02e77e47a18)
 - 安全分析与研究
   - [EDR攻击技术-进程与遥测欺骗](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497178&idx=1&sn=bc85ee18b9552d272157a8c07ffcda05)
 - 看雪学苑
@@ -85,12 +82,18 @@
   - [折叠屏iPhone维修费传8000元，苹果称尚未定价；腾讯Chatterfly输入法内测；微软高管称AI训练是「史上最大规模劳动盗窃」｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113820&idx=1&sn=f0fbec42cd39f0844f985dd4b04222e8)
 - IT Service Management News
   - [ISO 9001:2026](http://blog.cesaregallotti.it/2026/09/iso-90012026.html)
-- 技术猫屋
-  - [现代 Web 框架共享原生图片处理链的攻击面拆解](https://mp.weixin.qq.com/s?__biz=Mzg4MzYxODA4Mw==&mid=2247484194&idx=1&sn=0385d879aac31fc35ae40227258d5c1c)
 - bellingcat
   - [Christy Kinahan’s UAE Residence Visa Cancelled](https://www.bellingcat.com/news/2026/09/19/christy-kinahans-uae-residence-visa-cancelled/)
+- Over Security
+  - [Viral AI actress' hotline face-scans every caller, watches their mood](https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/)
+  - [BragJack attacks hijack AI browser agents through malicious extensions](https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/)
+  - [North Korean WaterPlum hackers infected 30,000 devices worldwide](https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/)
+  - [ShinyHunters hacks Clop leak site, threatens to extort ransomware gang](https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/)
+  - [Calling viral AI actress Tilly Norwood? Agree to a face scan first](https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/)
 - SANS Internet Storm Center, InfoCON: green
   - [HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)](https://isc.sans.edu/diary/rss/33352)
+- 技术猫屋
+  - [现代 Web 框架共享原生图片处理链的攻击面拆解](https://mp.weixin.qq.com/s?__biz=Mzg4MzYxODA4Mw==&mid=2247484194&idx=1&sn=0385d879aac31fc35ae40227258d5c1c)
 - The Hacker News
   - [Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws](https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html)
   - [Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar](https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html)
@@ -105,16 +108,8 @@
   - [AI Helps Hackers Hijack OpenAI Staff Accounts Through a Forum](https://securityaffairs.com/199378/ai/ai-helps-hackers-hijack-openai-staff-accounts-through-a-forum.html)
 - Blackhat Library: Hacking techniques and research
   - [Back when you could just freely login to hundreds of active servers a day](https://www.reddit.com/r/blackhat/comments/1wkw4o5/back_when_you_could_just_freely_login_to_hundreds/)
-- Over Security
-  - [Viral AI actress' hotline face-scans every caller, watches their mood](https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/)
-  - [BragJack attacks hijack AI browser agents through malicious extensions](https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/)
-  - [North Korean WaterPlum hackers infected 30,000 devices worldwide](https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/)
-  - [ShinyHunters hacks Clop leak site, threatens to extort ransomware gang](https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/)
-  - [Calling viral AI actress Tilly Norwood? Agree to a face scan first](https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/)
 - Daniel Miessler
   - [My Early Thoughts on Jev](https://danielmiessler.com/blog/early-thoughts-on-jev?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- T00ls安全
-  - [十八而志，与子同袍 - tormail](https://mp.weixin.qq.com/s?__biz=Mzg3NzYzODU5NQ==&mid=2247485845&idx=1&sn=e0bbe6f8e76a33ecc679cd22aa3f598d)
 - KitPloit - PenTest Tools!
   - [rustinel v1.8.0-rc.1](https://kitploit.com/en/posts/github-karib0u-rustinel-v180-rc1)
   - [urx v0.11.0](https://kitploit.com/en/posts/github-hahwul-urx-0110)
@@ -141,5 +136,7 @@
   - [evmbench-certora-agent-harness](https://kitploit.com/en/tools/github/gmh5225/evmbench-certora-agent-harness)
   - [sslscan v2.2.3](https://kitploit.com/en/posts/github-rbsec-sslscan-223)
   - [faraday v5.24.2](https://kitploit.com/en/posts/github-infobyte-faraday-v5242)
+- T00ls安全
+  - [十八而志，与子同袍 - tormail](https://mp.weixin.qq.com/s?__biz=Mzg3NzYzODU5NQ==&mid=2247485845&idx=1&sn=e0bbe6f8e76a33ecc679cd22aa3f598d)
 - OnionSec
   - [从春天走到秋天](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247486017&idx=1&sn=b60b274839e45d2d2a15333714ff742e)
