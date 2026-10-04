@@ -1,7 +1,11 @@
 # 每日安全资讯（2026-10-04）
 
+- Recent Commits to cve:main
+  - [Update Sat Oct  3 12:33:01 UTC 2026](https://github.com/trickest/cve/commit/de57b3a5c16ff0c40c543149c930e2eef3c2d611)
 - SecWiki News
   - [SecWiki News 2026-10-03 Review](http://www.sec-wiki.com/?2026-10-03)
+- 博客
+  - [ifupdown and ifupdown2](https://dyrnq.com/ifupdown-and-ifupdown2/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Improper Encoding or Escaping of Output in Motioneye_Project Motioneye](https://sploitus.com/exploit?id=DA26F5F2-4091-52FF-AC34-43E8B5297DC1&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Nginxui Nginx_Ui](https://sploitus.com/exploit?id=7C3CEB66-1DCE-5EBA-9FCA-3B3691F18588&utm_source=rss&utm_medium=rss)
@@ -22,20 +26,20 @@
   - [Exploit for OS Command Injection in Redhat Openshift_Container_Platform](https://sploitus.com/exploit?id=D7A54D76-AB6F-5E61-90A2-ABBD4E269BF9&utm_source=rss&utm_medium=rss)
   - [wordpress-stored-xss-privilege-escalation-admin-creation exploit](https://sploitus.com/exploit?id=347AF061-4557-5E0C-B60B-A201240B961B&utm_source=rss&utm_medium=rss)
   - [wordpress-rce-theme-editor-webshell-injection exploit](https://sploitus.com/exploit?id=B9D53E0D-CAC4-5C9A-8AD6-3D3FE788BA1D&utm_source=rss&utm_medium=rss)
-  - [BlackDex exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CODINGGAY-BLACKDEX&utm_source=rss&utm_medium=rss)
+  - [Suricata-Rule-for-Detecting-CVE-2025-55182 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SOLIDEVIL14-SURICATA-RULE-FOR-DETECTING-CVE-2025-55182&utm_source=rss&utm_medium=rss)
+  - [LnkMeMaybe exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TRUSTEDSEC-LNKMEMAYBE&utm_source=rss&utm_medium=rss)
+  - [url-cheatsheet-data exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PORTSWIGGER-URL-CHEATSHEET-DATA&utm_source=rss&utm_medium=rss)
   - [casbin exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-APACHE-CASBIN&utm_source=rss&utm_medium=rss)
-  - [cve-2020-27955 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-THE-CHIVALROUSZ-CVE-2020-27955&utm_source=rss&utm_medium=rss)
-  - [CVE-2024-47176 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-0X7556-CVE-2024-47176&utm_source=rss&utm_medium=rss)
   - [CVE-2020-13941 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MBADANOIU-CVE-2020-13941&utm_source=rss&utm_medium=rss)
   - [CVE-2024-22891 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-EQSTLAB-CVE-2024-22891&utm_source=rss&utm_medium=rss)
-  - [CVE-2023-34040 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BUIDUCHOANG24-CVE-2023-34040&utm_source=rss&utm_medium=rss)
   - [CVE-2025-2294 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-YUCAERIN-CVE-2025-2294&utm_source=rss&utm_medium=rss)
+  - [CVE-2022-26134 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-COSKPER-PAPA-CVE-2022-26134&utm_source=rss&utm_medium=rss)
   - [haruspex exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-0XDEA-HARUSPEX&utm_source=rss&utm_medium=rss)
-  - [udpx exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NULLT3R-UDPX&utm_source=rss&utm_medium=rss)
-- Recent Commits to cve:main
-  - [Update Sat Oct  3 12:33:01 UTC 2026](https://github.com/trickest/cve/commit/de57b3a5c16ff0c40c543149c930e2eef3c2d611)
-- 博客
-  - [ifupdown and ifupdown2](https://dyrnq.com/ifupdown-and-ifupdown2/)
+  - [udpx exploit](https://sploitus.com/exploit?id=KITPLOIT:938872279280755664&utm_source=rss&utm_medium=rss)
+- Hexacorn
+  - [The boring state of stalled timelines…](https://www.hexacorn.com/blog/2026/10/03/the-boring-state-of-stalled-timelines/)
+- Malware-Traffic-Analysis.net - Blog Entries
+  - [2026-09-29: Macfinger ClickFix activity](https://www.malware-traffic-analysis.net/2026/09/29/index.html)
 - Kitploit — Hacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!
   - [N0xis](https://kitploit.com/en/tools/github/structio-labs/n0xis)
   - [Decepticon v1.2.2](https://kitploit.com/en/posts/decepticon-7ec23d84d6dcd0b8)
@@ -57,38 +61,34 @@
   - [grype v0.120.0](https://kitploit.com/en/posts/grype-244879363bf818de)
   - [Chamemask](https://kitploit.com/en/tools/github/manhnho/chamemask)
   - [CCTV](https://kitploit.com/en/tools/github/c2sp/cctv)
-- Hacking Dream
-  - [Understanding Abliteration: How I Learned to Read and Edit an Open-Weight LLM Without Fine-Tuning](https://www.hackingdream.net/2026/10/understanding-abliteration-how-i-learned-to-edit-an-open-weight-llm-without-finetuning.html)
-- Hexacorn
-  - [The boring state of stalled timelines…](https://www.hexacorn.com/blog/2026/10/03/the-boring-state-of-stalled-timelines/)
-- Malware-Traffic-Analysis.net - Blog Entries
-  - [2026-09-29: Macfinger ClickFix activity](https://www.malware-traffic-analysis.net/2026/09/29/index.html)
 - Reverse Engineering
-  - [Pre-installed C2 loader on cheap Android projectors - deploys proxy/ad-fraud botnets, can run arbitrary code (Technical analysis)](https://www.reddit.com/r/ReverseEngineering/comments/1wwmw15/preinstalled_c2_loader_on_cheap_android/)
-  - [I turned a low-cost RP2040-Zero into a FIDO2/WebAuthn security key](https://www.reddit.com/r/ReverseEngineering/comments/1wwwvpb/i_turned_a_lowcost_rp2040zero_into_a/)
   - [N0xis: from a hardware watchpoint in a live process to the decompiled statement that wrote the value (Rust, Windows/Linux, CLI + MCP)](https://www.reddit.com/r/ReverseEngineering/comments/1wwy6x4/n0xis_from_a_hardware_watchpoint_in_a_live/)
+  - [I turned a low-cost RP2040-Zero into a FIDO2/WebAuthn security key](https://www.reddit.com/r/ReverseEngineering/comments/1wwwvpb/i_turned_a_lowcost_rp2040zero_into_a/)
+  - [Pre-installed C2 loader on cheap Android projectors - deploys proxy/ad-fraud botnets, can run arbitrary code (Technical analysis)](https://www.reddit.com/r/ReverseEngineering/comments/1wwmw15/preinstalled_c2_loader_on_cheap_android/)
   - [how to remove or bypass this message from flutter app "com.vistring.blink.android" "message : you are currently use unofficial version" pirated message after remove pairip](https://www.reddit.com/r/ReverseEngineering/comments/1wwt2vk/how_to_remove_or_bypass_this_message_from_flutter/)
   - [Anti-Debug tricks ( unknow )](https://www.reddit.com/r/ReverseEngineering/comments/1wwh3li/antidebug_tricks_unknow/)
+- Hacking Dream
+  - [Understanding Abliteration: How I Learned to Read and Edit an Open-Weight LLM Without Fine-Tuning](https://www.hackingdream.net/2026/10/understanding-abliteration-how-i-learned-to-edit-an-open-weight-llm-without-finetuning.html)
 - Yang Hao's blog
   - [桌面壁纸层监控HUD踩坑实录](https://yanghaoi.github.io/2026/10/04/zhuo-mian-bi-zhi-ceng-jian-kong-hud-cai-keng-shi-lu/)
-- ICT Security Magazine
-  - [Zero trust negli ambienti OT: perché l’air gap non basta più](https://www.ictsecuritymagazine.com/articoli/zero-trust-ot-air-gap/)
-- LastKnight.com Feed
-  - [Altman e Amodei sul ceppo: la macchina che trema è l’alibi perfetto](https://mgpf.it/2026/10/03/altman-amodei-ceppo.html)
 - Over Security
   - [Google Gemini could soon get full access to your Mac’s files, apps and the web](https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/)
   - [ShinyHunters hacker reportedly detained in Jordan, aiding FBI](https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/)
   - [Danish university DTU breach exposes data of up to 200,000 people](https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/)
+- LastKnight.com Feed
+  - [Altman e Amodei sul ceppo: la macchina che trema è l’alibi perfetto](https://mgpf.it/2026/10/03/altman-amodei-ceppo.html)
+- ICT Security Magazine
+  - [Zero trust negli ambienti OT: perché l’air gap non basta più](https://www.ictsecuritymagazine.com/articoli/zero-trust-ot-air-gap/)
 - SANS Internet Storm Center, InfoCON: green
   - [YARA-X 1.21.0 Release, (Sat, Oct 3rd)](https://isc.sans.edu/diary/rss/33392)
-- GRAHAM CLULEY
-  - [N0n ransomware: what you need to know](https://www.fortra.com/blog/n0n-ransomware-what-you-need-know)
 - Security Affairs
   - [Fake Zoom installer hides macOS backdoor CloudSyncD](https://securityaffairs.com/200293/malware/fake-zoom-installer-hides-macos-backdoor-cloudsyncd.html)
   - [CVE-2026-90970: Critical GitLab AI Gateway Flaw Fixed](https://securityaffairs.com/200283/hacking/cve-2026-90970-critical-gitlab-ai-gateway-flaw-fixed.html)
   - [Antino Backdoor Lets China-Linked UAT-11587 Turn Microsoft 365 Into a C2 Channel](https://securityaffairs.com/200264/apt/antino-backdoor-uses-your-inbox-as-its-control-panel.html)
-- Blackhat Library: Hacking techniques and research
-  - [Super Trouper v0.4.0 — more Frida tools for iOS app reverse engineering](https://www.reddit.com/r/blackhat/comments/1wwqh8l/super_trouper_v040_more_frida_tools_for_ios_app/)
+- The Hacker News
+  - [MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics](https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html)
+  - [Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware](https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html)
+  - [The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html)
 - KitPloit - PenTest Tools!
   - [N0xis](https://kitploit.com/en/tools/github/structio-labs/n0xis)
   - [Decepticon v1.2.2](https://kitploit.com/en/posts/decepticon-7ec23d84d6dcd0b8)
@@ -110,7 +110,5 @@
   - [grype v0.120.0](https://kitploit.com/en/posts/grype-244879363bf818de)
   - [Chamemask](https://kitploit.com/en/tools/github/manhnho/chamemask)
   - [CCTV](https://kitploit.com/en/tools/github/c2sp/cctv)
-- The Hacker News
-  - [MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics](https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html)
-  - [Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware](https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html)
-  - [The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html)
+- Blackhat Library: Hacking techniques and research
+  - [Super Trouper v0.4.0 — more Frida tools for iOS app reverse engineering](https://www.reddit.com/r/blackhat/comments/1wwqh8l/super_trouper_v040_more_frida_tools_for_ios_app/)
