@@ -8,6 +8,15 @@
   - [mav-raiders exploit](https://sploitus.com/exploit?id=E6F5D9E9-E637-5B91-8602-3A949F0EEF3F&utm_source=rss&utm_medium=rss)
   - [ai_bobao exploit](https://sploitus.com/exploit?id=C67994F7-7BEE-5B6C-8341-7C713D433C41&utm_source=rss&utm_medium=rss)
   - [metasploitable2-red-team-assessment exploit](https://sploitus.com/exploit?id=D443F962-3140-53CE-AC7C-A200B126213D&utm_source=rss&utm_medium=rss)
+  - [CVE-2024-9474 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ARATANE-CVE-2024-9474&utm_source=rss&utm_medium=rss)
+  - [Codeine exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DIEGO-TELLA-CODEINE&utm_source=rss&utm_medium=rss)
+  - [apache-httpd-path-traversal-checker exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-THELSA-APACHE-HTTPD-PATH-TRAVERSAL-CHECKER&utm_source=rss&utm_medium=rss)
+  - [CVE-2025-55315-PoC-Exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ZEMARKHOS-CVE-2025-55315-POC-EXPLOIT&utm_source=rss&utm_medium=rss)
+  - [expel-intel exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-EXPEL-IO-EXPEL-INTEL&utm_source=rss&utm_medium=rss)
+  - [hstsparser exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-THEBEANOGAMER-HSTSPARSER&utm_source=rss&utm_medium=rss)
+  - [freddy exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NCCGROUP-FREDDY&utm_source=rss&utm_medium=rss)
+  - [EntraFalcon exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-COMPASSSECURITY-ENTRAFALCON&utm_source=rss&utm_medium=rss)
+  - [obsidian-osint-templates exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WEBBREACHER-OBSIDIAN-OSINT-TEMPLATES&utm_source=rss&utm_medium=rss)
   - [WORDPRESS-CVE-2024-25600-EXPLOIT-RCE](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-X-PROJETION-WORDPRESS-CVE-2024-25600-EXPLOIT-RCE&utm_source=rss&utm_medium=rss)
   - [Baron-Samedit-Heap-Buffer-Overflow-CVE-2021-3156 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SHUHAIB88-BARON-SAMEDIT-HEAP-BUFFER-OVERFLOW-CVE-2021-3156&utm_source=rss&utm_medium=rss)
   - [cve-2019-10678 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CVED-SOURCES-CVE-2019-10678&utm_source=rss&utm_medium=rss)
@@ -17,20 +26,12 @@
   - [vulnrepro-benchmark exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FARHADALIMOHAMMADI-DIR-VULNREPRO-BENCHMARK&utm_source=rss&utm_medium=rss)
   - [om-research exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ALKERSAN-OM-RESEARCH&utm_source=rss&utm_medium=rss)
   - [byvalver exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-UMPOLUNGFISH-BYVALVER&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-24055-OAuth-Langfuse exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-IMZANGGG-CVE-2026-24055-OAUTH-LANGFUSE&utm_source=rss&utm_medium=rss)
   - [Keycloak-12.0.1-CVE-2020-10770 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-COLDFUSIONX-KEYCLOAK-12.0.1-CVE-2020-10770&utm_source=rss&utm_medium=rss)
   - [pidrila exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ENEMY-SUBMARINE-PIDRILA&utm_source=rss&utm_medium=rss)
+  - [DataPrivacy-CVE-2025-23211 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-IIXOSKELETONII-DATAPRIVACY-CVE-2025-23211&utm_source=rss&utm_medium=rss)
   - [zuthaka exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PUCARASEC-ZUTHAKA&utm_source=rss&utm_medium=rss)
   - [omnisci3nt exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SPYBOY-PRODUCTIONS-OMNISCI3NT&utm_source=rss&utm_medium=rss)
-  - [Redpoint exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DIGITALBOND-REDPOINT&utm_source=rss&utm_medium=rss)
-  - [shocker exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NCCGROUP-SHOCKER&utm_source=rss&utm_medium=rss)
-  - [CVE-2026-24055-OAuth-Langfuse exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-IMZANGGG-CVE-2026-24055-OAUTH-LANGFUSE&utm_source=rss&utm_medium=rss)
-  - [pyrdp exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GOSECURE-PYRDP&utm_source=rss&utm_medium=rss)
-  - [USBArmyKnife exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-I-AM-SHODAN-USBARMYKNIFE&utm_source=rss&utm_medium=rss)
-  - [camoufox exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DAIJRO-CAMOUFOX&utm_source=rss&utm_medium=rss)
-  - [CVE-2025-29927-test exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KUZUSHIKI-CVE-2025-29927-TEST&utm_source=rss&utm_medium=rss)
-  - [Exploit-FortinetMagicBackdoor](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TUMIKOTO-EXPLOIT-FORTINETMAGICBACKDOOR&utm_source=rss&utm_medium=rss)
-  - [certPinningVulnerableOkHttp exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-IKOZ-CERTPINNINGVULNERABLEOKHTTP&utm_source=rss&utm_medium=rss)
-  - [CVE-2026-33017 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-EQSTLAB-CVE-2026-33017&utm_source=rss&utm_medium=rss)
 - Kitploit — Hacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!
   - [veneficus](https://kitploit.com/en/tools/github/abraxas/veneficus)
   - [Gu3ssWeak](https://kitploit.com/en/tools/github/b4sith-sec/gu3ssweak)
@@ -54,27 +55,42 @@
   - [prompt-injection-email-samples](https://kitploit.com/en/tools/github/cyb3rmik3/prompt-injection-email-samples)
   - [Scrapling — Updated!](https://kitploit.com/en/posts/scrapling-161a836c30cc5203)
   - [AI-FILE](https://kitploit.com/en/tools/github/kyle41111/ai-file)
+- Malware-Traffic-Analysis.net - Blog Entries
+  - [2026-09-30: SmartApeSG ClickFix pushes CNCmachineRMS RAT](https://www.malware-traffic-analysis.net/2026/09/30/index.html)
 - Hacking Dream
   - [Abliteration Workbench: My Llama 3.2 Refusal Research](https://www.hackingdream.net/2026/10/llama-3-2-refusal-research-abliteration-workbench.html)
 - Reverse Engineering
-  - [Loading a Samsung Shannon baseband into Ghidra 12.1.4](https://www.reddit.com/r/ReverseEngineering/comments/1wxs70y/loading_a_samsung_shannon_baseband_into_ghidra/)
   - [iOS 27 kernelcache RE writeup — full SEP dispatch map (96 selectors), AMFI diff, Ghidra workflow (zero new vulns, but full methodology public)](https://www.reddit.com/r/ReverseEngineering/comments/1wxqpf9/ios_27_kernelcache_re_writeup_full_sep_dispatch/)
+  - [Loading a Samsung Shannon baseband into Ghidra 12.1.4](https://www.reddit.com/r/ReverseEngineering/comments/1wxs70y/loading_a_samsung_shannon_baseband_into_ghidra/)
   - [Bug hunt: Pizza Tycoon's missing pizza boxes](https://www.reddit.com/r/ReverseEngineering/comments/1wxepbe/bug_hunt_pizza_tycoons_missing_pizza_boxes/)
   - [I built Gu3ssWeak — a deliberately vulnerable Android app for mobile security research & pentesting](https://www.reddit.com/r/ReverseEngineering/comments/1wx493p/i_built_gu3ssweak_a_deliberately_vulnerable/)
-- Malware-Traffic-Analysis.net - Blog Entries
-  - [2026-09-30: SmartApeSG ClickFix pushes CNCmachineRMS RAT](https://www.malware-traffic-analysis.net/2026/09/30/index.html)
 - Over Security
   - [Citrix patches NetScaler SAML zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/)
   - [Anthropic asks Claude users to share voice data for AI model training](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/)
   - [Perché i colossi dell’AI distruggono i libri?](https://guerredirete.substack.com/p/perche-i-colossi-dellai-distruggono)
-- ICT Security Magazine
-  - [NIS2 e AI Act: cybersecurity e cyber risk tra gestione del rischio e responsabilità nell’ecosistema digitale europeo](https://www.ictsecuritymagazine.com/articoli/nis2-ai-act-cyber-risk/)
 - Arturo Di Corinto
   - [RomHack, presentazione del libro Guerra profonda](https://dicorinto.it/guerra-profonda/romhack-presentazione-del-libro-guerra-profonda/)
-- SANS Internet Storm Center, InfoCON: green
-  - [User Agent Strings Curiosities, (Sun, Oct 4th)](https://isc.sans.edu/diary/rss/33394)
 - Dark Space Blogspot
   - [L'Attacco Alla Banca Fideuram Tramite AI e Voice Cloning](http://darkwhite666.blogspot.com/2026/10/lattacco-alla-banca-fideuram-tramite-ai.html)
+- Troy Hunt's Blog
+  - [Weekly Update 524: Live From Copenhagen](https://www.troyhunt.com/weekly-update-524/)
+- ICT Security Magazine
+  - [NIS2 e AI Act: cybersecurity e cyber risk tra gestione del rischio e responsabilità nell’ecosistema digitale europeo](https://www.ictsecuritymagazine.com/articoli/nis2-ai-act-cyber-risk/)
+- SANS Internet Storm Center, InfoCON: green
+  - [User Agent Strings Curiosities, (Sun, Oct 4th)](https://isc.sans.edu/diary/rss/33394)
+- The Hacker News
+  - [ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html)
+  - [China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing](https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html)
+- Deep Web
+  - [Best website to get research chemicals](https://www.reddit.com/r/deepweb/comments/1wxt1x3/best_website_to_get_research_chemicals/)
+  - [Amazon](https://www.reddit.com/r/deepweb/comments/1wxjg75/amazon/)
+  - [CA License Plate](https://www.reddit.com/r/deepweb/comments/1wxq80x/ca_license_plate/)
+- Security Affairs
+  - [SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 2](https://securityaffairs.com/200367/ai/security-affairs-ai-cybersecurity-newsletter-round-2.html)
+  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 117](https://securityaffairs.com/200354/security/security-affairs-malware-newsletter-round-117.html)
+  - [ShinyHunters Suspect Detained in Jordan Helps FBI Track Down the Group](https://securityaffairs.com/200338/cyber-crime/shinyhunters-suspect-detained-in-jordan-helps-fbi-track-down-the-group.html)
+  - [Security Affairs newsletter Round 598 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/200326/breaking-news/security-affairs-newsletter-round-598-by-pierluigi-paganini-international-edition.html)
+  - [Warlock Ransomware Still Exploits Year-Old SharePoint Flaws to Hit Critical Infrastructure](https://securityaffairs.com/200304/malware/warlock-ransomware-still-exploits-year-old-sharepoint-flaws-to-hit-critical-infrastructure.html)
 - KitPloit - PenTest Tools!
   - [veneficus](https://kitploit.com/en/tools/github/abraxas/veneficus)
   - [Gu3ssWeak](https://kitploit.com/en/tools/github/b4sith-sec/gu3ssweak)
@@ -98,16 +114,3 @@
   - [prompt-injection-email-samples](https://kitploit.com/en/tools/github/cyb3rmik3/prompt-injection-email-samples)
   - [Scrapling — Updated!](https://kitploit.com/en/posts/scrapling-161a836c30cc5203)
   - [AI-FILE](https://kitploit.com/en/tools/github/kyle41111/ai-file)
-- Security Affairs
-  - [SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 2](https://securityaffairs.com/200367/ai/security-affairs-ai-cybersecurity-newsletter-round-2.html)
-  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 117](https://securityaffairs.com/200354/security/security-affairs-malware-newsletter-round-117.html)
-  - [ShinyHunters Suspect Detained in Jordan Helps FBI Track Down the Group](https://securityaffairs.com/200338/cyber-crime/shinyhunters-suspect-detained-in-jordan-helps-fbi-track-down-the-group.html)
-  - [Security Affairs newsletter Round 598 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/200326/breaking-news/security-affairs-newsletter-round-598-by-pierluigi-paganini-international-edition.html)
-  - [Warlock Ransomware Still Exploits Year-Old SharePoint Flaws to Hit Critical Infrastructure](https://securityaffairs.com/200304/malware/warlock-ransomware-still-exploits-year-old-sharepoint-flaws-to-hit-critical-infrastructure.html)
-- The Hacker News
-  - [ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html)
-  - [China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing](https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html)
-- Blackhat Library: Hacking techniques and research
-  - [Combining TOR, WebRTC and Git into a Decentralized E2EE P2P Messaging App](https://www.reddit.com/r/blackhat/comments/1wxk3gn/combining_tor_webrtc_and_git_into_a_decentralized/)
-- Troy Hunt's Blog
-  - [Weekly Update 524: Live From Copenhagen](https://www.troyhunt.com/weekly-update-524/)
