@@ -1,21 +1,26 @@
 # 每日安全资讯（2026-10-07）
 
-- SecWiki News
-  - [SecWiki News 2026-10-06 Review](http://www.sec-wiki.com/?2026-10-06)
 - Armin Ronacher's Thoughts and Writings
   - [What is Codemode](https://lucumr.pocoo.org/2026/10/6/codemode/)
+- SecWiki News
+  - [SecWiki News 2026-10-06 Review](http://www.sec-wiki.com/?2026-10-06)
+- Recent Commits to cve:main
+  - [Update Tue Oct  6 12:13:24 UTC 2026](https://github.com/trickest/cve/commit/c6af2252b86f1dba00e2ecf1a58b91efa49a0611)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Incorrect Authorization in Qualcomm Aqt1000_Firmware](https://sploitus.com/exploit?id=5F78FC92-3726-589D-92E3-44CA0F1A9B20&utm_source=rss&utm_medium=rss)
+  - [bbot exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BLACKLANTERNSECURITY-BBOT&utm_source=rss&utm_medium=rss)
+  - [CVE-2019-15107 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-D4RKSCARE-CVE-2019-15107&utm_source=rss&utm_medium=rss)
+  - [h2conn-exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DOMDOM82-H2CONN-EXPLOIT&utm_source=rss&utm_medium=rss)
   - [CVE-2023-41892 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ZAENHAXOR-CVE-2023-41892&utm_source=rss&utm_medium=rss)
   - [gitGRAB exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ANKHCORP-GITGRAB&utm_source=rss&utm_medium=rss)
   - [AI-Vulnerabilities-Playground exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OWASP-AI-VULNERABILITIES-PLAYGROUND&utm_source=rss&utm_medium=rss)
   - [pwnage24mtk exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KASNRIA001-PWNAGE24MTK&utm_source=rss&utm_medium=rss)
   - [CVE-2021-21985_PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ALT3KX-CVE-2021-21985_POC&utm_source=rss&utm_medium=rss)
-  - [hollows_hunter exploit](https://sploitus.com/exploit?id=KITPLOIT:9095651794446602391&utm_source=rss&utm_medium=rss)
+  - [hollows_hunter exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HASHEREZADE-HOLLOWS_HUNTER&utm_source=rss&utm_medium=rss)
   - [stackrox exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-STACKROX-STACKROX&utm_source=rss&utm_medium=rss)
   - [cve-2024-3400-poc exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TFREDERICK74656-CVE-2024-3400-POC&utm_source=rss&utm_medium=rss)
   - [CVE-2025-30208 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TH-SECFORGE-CVE-2025-30208&utm_source=rss&utm_medium=rss)
-  - [exfilkit exploit](https://sploitus.com/exploit?id=KITPLOIT:1302370283878325508&utm_source=rss&utm_medium=rss)
+  - [exfilkit exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TASOOSHI-EXFILKIT&utm_source=rss&utm_medium=rss)
   - [Research_Successful_Errors exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-VLADKO312-RESEARCH_SUCCESSFUL_ERRORS&utm_source=rss&utm_medium=rss)
   - [Freeloader exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-AUTHREQUEST-FREELOADER&utm_source=rss&utm_medium=rss)
   - [TrashEmail exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ROSEHGAL-TRASHEMAIL&utm_source=rss&utm_medium=rss)
@@ -24,27 +29,12 @@
   - [BlueSpy exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TARLOGICSECURITY-BLUESPY&utm_source=rss&utm_medium=rss)
   - [CVE-2018-11510 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MEFULTON-CVE-2018-11510&utm_source=rss&utm_medium=rss)
   - [CVE-2024-29855 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SINSINOLOGY-CVE-2024-29855&utm_source=rss&utm_medium=rss)
-  - [OWASP-MCP-Governance-and-Risk-Project exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OWASP-OWASP-MCP-GOVERNANCE-AND-RISK-PROJECT&utm_source=rss&utm_medium=rss)
-  - [swarmer exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PRAETORIAN-INC-SWARMER&utm_source=rss&utm_medium=rss)
-  - [testenv exploit](https://sploitus.com/exploit?id=KITPLOIT:8771890838475280430&utm_source=rss&utm_medium=rss)
-  - [PANO exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ALW1EZ-PANO&utm_source=rss&utm_medium=rss)
-  - [mitmproxy_rs exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MITMPROXY-MITMPROXY_RS&utm_source=rss&utm_medium=rss)
-  - [SocksOverRDP exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NCCGROUP-SOCKSOVERRDP&utm_source=rss&utm_medium=rss)
-  - [ipmitest exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ALEXOSLABS-IPMITEST&utm_source=rss&utm_medium=rss)
-  - [CVE-2021-26084 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LONEYERS-CVE-2021-26084&utm_source=rss&utm_medium=rss)
-  - [BSF exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TKLAB-TUD-BSF&utm_source=rss&utm_medium=rss)
-  - [CVE-2023-34362 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HORIZON3AI-CVE-2023-34362&utm_source=rss&utm_medium=rss)
-  - [Breach-Report-Collection exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BUSHIDOUK-BREACH-REPORT-COLLECTION&utm_source=rss&utm_medium=rss)
-- Tenable Blog
-  - [How to mitigate the risk from AI-generated apps built by your 'citizen coder' employees](https://www.tenable.com/blog/how-to-secure-mitigate-ai-risk-vibe-coding-ai-apps-citizen-coders)
 - 博客
   - [install sshd on windows11](https://dyrnq.com/install-sshd-on-windows11/)
-- Recent Commits to cve:main
-  - [Update Tue Oct  6 12:13:24 UTC 2026](https://github.com/trickest/cve/commit/c6af2252b86f1dba00e2ecf1a58b91efa49a0611)
+- Tenable Blog
+  - [How to mitigate the risk from AI-generated apps built by your 'citizen coder' employees](https://www.tenable.com/blog/how-to-secure-mitigate-ai-risk-vibe-coding-ai-apps-citizen-coders)
 - Microsoft Security Blog
   - [CISO perspectives on managing vulnerability risks in the age of AI](https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/)
-- Pentest Blog
-  - [hacked by trenggalek6etar](https://pentest.blog/cox-htm/)
 - Kitploit — Hacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!
   - [Decretum](https://kitploit.com/en/tools/github/opposum0112/decretum)
   - [vedas-signatures](https://kitploit.com/en/tools/github/arpsyndicate/vedas-signatures)
@@ -70,16 +60,12 @@
   - [sliver-gui](https://kitploit.com/en/tools/github/sliverarmory/sliver-gui)
   - [trufflehog v3.98.0](https://kitploit.com/en/posts/trufflehog-7a1802670dd7e275)
   - [rea](https://kitploit.com/en/tools/github/morluto/rea)
-- 白帽Wiki - 一个简单的wiki
-  - [[2026]一个token问题导致tsecbench-CTF的A-18(CloudFunc)做不出来](https://key08.com/index.php/2026/10/06/3360.html)
 - Horizon3
   - [CVE-2026-21589 | Atlassian Data Center Products Unauthenticated Arbitrary File Read Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-21589/)
-- Malwarebytes
-  - [ASOS “hackers” send push notifications to customers](https://www.malwarebytes.com/blog/news/2026/10/asos-hackers-send-push-notifications-to-customers)
-  - [Facebook Marketplace scam uses your name and number](https://www.malwarebytes.com/blog/threat-intel/2026/10/facebook-marketplace-phish-uses-your-name-and-number)
-  - [Domino’s customers targeted in credential stuffing attacks](https://www.malwarebytes.com/blog/news/2026/10/dominos-customers-targeted-in-credential-stuffing-attacks)
-- Whwlsfb's Tech Blog
-  - [hacked by trenggalek6etar](https://blog.wanghw.cn/uncategorized/cox-htm-2.html)
+- Binary Ninja
+  - [Reversing Engineering a Captive Portal](https://binary.ninja/2026/10/06/reverse-engineering-airbnb-captive-portal.html)
+- 白帽Wiki - 一个简单的wiki
+  - [[2026]一个token问题导致tsecbench-CTF的A-18(CloudFunc)做不出来](https://key08.com/index.php/2026/10/06/3360.html)
 - Reverse Engineering
   - [Reverse engineering a Magelight XP glitch in Skyrim](https://www.reddit.com/r/ReverseEngineering/comments/1wzexqi/reverse_engineering_a_magelight_xp_glitch_in/)
   - [I made this javascript deobfuscator for https://github.com/javascript-obfuscator/javascript-obfuscator](https://www.reddit.com/r/ReverseEngineering/comments/1wz4yj8/i_made_this_javascript_deobfuscator_for/)
@@ -88,32 +74,37 @@
   - [iOS 27.2 beta: silent hardening in ImageIO ASTC decoder — structural, zero-click candidate](https://www.reddit.com/r/ReverseEngineering/comments/1wz9rrk/ios_272_beta_silent_hardening_in_imageio_astc/)
   - [Testing my Browser Based SaavyCAN-style Program](https://www.reddit.com/r/ReverseEngineering/comments/1wyqnrr/testing_my_browser_based_saavycanstyle_program/)
   - [Is it possible to decompile the source code of Mario Kart Arcade GP DX with AI?](https://www.reddit.com/r/ReverseEngineering/comments/1wz0cdf/is_it_possible_to_decompile_the_source_code_of/)
+- Malwarebytes
+  - [ASOS “hackers” send push notifications to customers](https://www.malwarebytes.com/blog/news/2026/10/asos-hackers-send-push-notifications-to-customers)
+  - [Facebook Marketplace scam uses your name and number](https://www.malwarebytes.com/blog/threat-intel/2026/10/facebook-marketplace-phish-uses-your-name-and-number)
+  - [Domino’s customers targeted in credential stuffing attacks](https://www.malwarebytes.com/blog/news/2026/10/dominos-customers-targeted-in-credential-stuffing-attacks)
+- Pentest Blog
+  - [hacked by trenggalek6etar](https://pentest.blog/cox-htm/)
 - PortSwigger Research
   - [The model isn't cooperating](https://portswigger.net/research/the-model-isnt-cooperating)
 - rtl-sdr.com
   - [ESPsoup: Turn an ESP32-C5 into a 2.4 & 5 GHz Pocket Scanner with a Connected Phone or PC](https://www.rtl-sdr.com/espsoup-turn-an-esp32-c5-into-a-2-4-5-ghz-pocket-scanner-with-a-connected-phone-or-pc/)
   - [ChronAlert: Live Dashboard for Radio, Weather, Alerts with RTL-SDR Integration for APRS, ADS-B and AIS](https://www.rtl-sdr.com/chronalert-live-dashboard-for-radio-weather-alerts-with-rtl-sdr-integration-for-aprs-ads-b-and-ais/)
+- Whwlsfb's Tech Blog
+  - [hacked by trenggalek6etar](https://blog.wanghw.cn/uncategorized/cox-htm-2.html)
 - Light Cube
   - [LightCube 11 周年：AI 一天，人间一年](https://github.red/lightcube-11th/)
+- 安全小飞侠
+  - [看我如何使用Trae全程用AI开发了Dota游戏](https://mp.weixin.qq.com/s?__biz=MzAwMzAwOTQ5Nw==&mid=2650942092&idx=1&sn=00d6ca3834148cc43f14020a86115af3)
+- 看雪学苑
+  - [SDC2026议题预告 | Storm: AI审计时代下，Fuzzing还有用吗？](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622477&idx=1&sn=f2c191d14db906abbec6c22d22c45510)
+  - [基于CVD的云手机定制与风控分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622477&idx=2&sn=6718ce5fec2766d9640c83654337421b)
 - 黑鸟
   - [德国前联邦情报局局长涉嫌叛国性间谍活动被捕](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189146&idx=1&sn=d810b9ff19978d7df8ef9e49de36c643)
 - 安全分析与研究
   - [自主漏洞发现与利用生成](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497246&idx=1&sn=c4c0d6bb4764198995a717bbf5bc1cef)
-- 看雪学苑
-  - [SDC2026议题预告 | Storm: AI审计时代下，Fuzzing还有用吗？](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622477&idx=1&sn=f2c191d14db906abbec6c22d22c45510)
-  - [基于CVD的云手机定制与风控分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622477&idx=2&sn=6718ce5fec2766d9640c83654337421b)
-- 安全小飞侠
-  - [看我如何使用Trae全程用AI开发了Dota游戏](https://mp.weixin.qq.com/s?__biz=MzAwMzAwOTQ5Nw==&mid=2650942092&idx=1&sn=00d6ca3834148cc43f14020a86115af3)
 - 安全圈
   - [【安全圈】AI垃圾报告泛滥成灾：Google暂停开源软件漏洞赏金](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079263&idx=1&sn=52180588cf70081c190b9c058dbe9d05)
   - [【安全圈】黑客骨干约旦落网：ShinyHunters核心遭捕，FBI深入撕开7000万黑产链](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079263&idx=2&sn=932fb9e8573e22e857774ae97a9f6ee8)
   - [【安全圈】Atlassian曝9.3分严重漏洞：未授权遍历直读8款企业核心系统文件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079263&idx=3&sn=47f789aeec583972796579ec1b4b8172)
-- TrustedSec
-  - [Logging is a Discipline, Not a Switch](https://trustedsec.com/blog/logging-is-a-discipline-not-a-switch)
-- NETRESEC Network Security Blog
-  - [Stop Feeding the SOC Garbage](https://www.netresec.com/?page=Blog&month=2026-10&post=Stop-Feeding-the-SOC-Garbage)
-- bellingcat
-  - [Groups Associated With India’s Far-Right Receive Millions Through US Donor-Advised Funds](https://www.bellingcat.com/news/2026/10/06/dafs-india-rss-donations/)
+- 极客公园
+  - [不写代码的人，正在涌入 GitHub](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114305&idx=1&sn=041b930f33fa9034c1cf24442c8e1791)
+  - [OpenAI 宣布「28 天计划」，持续改进 Codex、Work；TikTok 上线一系列 AI 电商功能；蓝色起源公布月球「动力塔计划」 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114463&idx=1&sn=ba38afc84276dd04583e6f1c729e9ff9)
 - Microsoft Security Blog
   - [CISO perspectives on managing vulnerability risks in the age of AI](https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/)
 - Over Security
@@ -145,20 +136,16 @@
   - [Engineer sentenced for locking over 3,000 devices on employer network](https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/)
   - [8.8 Million People Affected in Major Denmark Data Breach](https://thecyberexpress.com/denmark-data-breach-exposes-data/)
   - [Wikimedia Finds Unauthorized OpenAI Agent Activity Across Its Platforms](https://thecyberexpress.com/openai-rogue-ai-agents-on-wikimedia-projects/)
+- ICT Security Magazine
+  - [Sicurezza digitale e vulnerabilità al phishing: profilo demografico e abitudini](https://www.ictsecuritymagazine.com/articoli/vulnerabilita-al-phishing/)
 - SEI Blog
   - [Navigating Program Complexity with the Waypoints Framework](https://www.sei.cmu.edu/blog/navigating-program-complexity-with-the-waypoints-framework/?utm_source=blog&utm_medium=rss&utm_campaign=my_site_updates)
 - Schneier on Security
   - [Possible Vulnerability in Apple’s Automatic Reboot](https://www.schneier.com/blog/archives/2026/10/possible-vulnerability-in-apples-automatic-reboot.html)
-- ICT Security Magazine
-  - [Sicurezza digitale e vulnerabilità al phishing: profilo demografico e abitudini](https://www.ictsecuritymagazine.com/articoli/vulnerabilita-al-phishing/)
-- 极客公园
-  - [不写代码的人，正在涌入 GitHub](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114305&idx=1&sn=041b930f33fa9034c1cf24442c8e1791)
-  - [OpenAI 宣布「28 天计划」，持续改进 Codex、Work；TikTok 上线一系列 AI 电商功能；蓝色起源公布月球「动力塔计划」 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114463&idx=1&sn=ba38afc84276dd04583e6f1c729e9ff9)
-- SANS Internet Storm Center, InfoCON: green
-  - [More RMM Tools In the Wild, (Tue, Oct 6th)](https://isc.sans.edu/diary/rss/33400)
-  - [ISC Stormcast For Tuesday, October 6th, 2026 https://isc.sans.edu/podcastdetail/10124, (Tue, Oct 6th)](https://isc.sans.edu/diary/rss/33402)
-- Blackhat Library: Hacking techniques and research
-  - [I rebuilt Hacker Experience for browser: Zero Traced is now in open beta and free.](https://www.reddit.com/r/blackhat/comments/1wz551x/i_rebuilt_hacker_experience_for_browser_zero/)
+- TrustedSec
+  - [Logging is a Discipline, Not a Switch](https://trustedsec.com/blog/logging-is-a-discipline-not-a-switch)
+- NETRESEC Network Security Blog
+  - [Stop Feeding the SOC Garbage](https://www.netresec.com/?page=Blog&month=2026-10&post=Stop-Feeding-the-SOC-Garbage)
 - Full Disclosure
   - [[0day-rubbish] StreamSets Transformer 3.17.0 auth-mode none fallback and un-sandboxed ScalaDTransform execution to container root (8.1 primary)](https://seclists.org/fulldisclosure/2026/Oct/8)
   - [[0day-rubbish] RCDevs WebADM 2.4.14 authenticated log viewer sid command injection to webadm uid 999 code execution (7.2)](https://seclists.org/fulldisclosure/2026/Oct/7)
@@ -169,6 +156,16 @@
   - [[0day-rubbish] Advantech WebAccess Node 9.2.3 unauthenticated CrystalRpt.aspx file upload and path traversal to code execution in w3wp.exe (9.8)](https://seclists.org/fulldisclosure/2026/Oct/2)
   - [SEC Consult Research 20261001 :: Arbitrary Email sender spoofing in Apple iCloud mail](https://seclists.org/fulldisclosure/2026/Oct/1)
   - [SEC Consult SA-20260924-0 :: Multiple Vulnerabilities in Paessler PRTG Network Monitor #CVE-2026-4637 #CVE-2026-4638](https://seclists.org/fulldisclosure/2026/Oct/0)
+- bellingcat
+  - [Groups Associated With India’s Far-Right Receive Millions Through US Donor-Advised Funds](https://www.bellingcat.com/news/2026/10/06/dafs-india-rss-donations/)
+- SANS Internet Storm Center, InfoCON: green
+  - [More RMM Tools In the Wild, (Tue, Oct 6th)](https://isc.sans.edu/diary/rss/33400)
+  - [ISC Stormcast For Tuesday, October 6th, 2026 https://isc.sans.edu/podcastdetail/10124, (Tue, Oct 6th)](https://isc.sans.edu/diary/rss/33402)
+- Security Affairs
+  - [CVE-2026-96940: Microsoft Fixes Exchange Server Flaw For Which Exploitation Is More Likely](https://securityaffairs.com/200476/security/cve-2026-96940-microsoft-fixes-high-severity-exchange-server-flaw.html)
+  - [FBI Drops Accenture Contractor After Sensitive Data Breach](https://securityaffairs.com/200468/data-breach/fbi-drops-accenture-contractor-after-sensitive-data-breach.html)
+  - [Dell Urges Customers to Patch Critical DSU Flaw That Can Give Attackers Root Access](https://securityaffairs.com/200458/security/dell-urges-customers-to-patch-critical-dsu-flaw-that-can-give-attackers-root-access.html)
+  - [ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure](https://securityaffairs.com/200450/uncategorized/clingstun-linux-backdoor-abuses-public-stun-infrastructure.html)
 - The Hacker News
   - [Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes](https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html)
   - [Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan](https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html)
@@ -180,11 +177,6 @@
   - [FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach](https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html)
   - [Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account](https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html)
   - [ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits](https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html)
-- Security Affairs
-  - [CVE-2026-96940: Microsoft Fixes Exchange Server Flaw For Which Exploitation Is More Likely](https://securityaffairs.com/200476/security/cve-2026-96940-microsoft-fixes-high-severity-exchange-server-flaw.html)
-  - [FBI Drops Accenture Contractor After Sensitive Data Breach](https://securityaffairs.com/200468/data-breach/fbi-drops-accenture-contractor-after-sensitive-data-breach.html)
-  - [Dell Urges Customers to Patch Critical DSU Flaw That Can Give Attackers Root Access](https://securityaffairs.com/200458/security/dell-urges-customers-to-patch-critical-dsu-flaw-that-can-give-attackers-root-access.html)
-  - [ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure](https://securityaffairs.com/200450/uncategorized/clingstun-linux-backdoor-abuses-public-stun-infrastructure.html)
 - KitPloit - PenTest Tools!
   - [Decretum](https://kitploit.com/en/tools/github/opposum0112/decretum)
   - [vedas-signatures](https://kitploit.com/en/tools/github/arpsyndicate/vedas-signatures)
@@ -210,6 +202,8 @@
   - [sliver-gui](https://kitploit.com/en/tools/github/sliverarmory/sliver-gui)
   - [trufflehog v3.98.0](https://kitploit.com/en/posts/trufflehog-7a1802670dd7e275)
   - [rea](https://kitploit.com/en/tools/github/morluto/rea)
+- Blackhat Library: Hacking techniques and research
+  - [I rebuilt Hacker Experience for browser: Zero Traced is now in open beta and free.](https://www.reddit.com/r/blackhat/comments/1wz551x/i_rebuilt_hacker_experience_for_browser_zero/)
 - Security Weekly Podcast Network (Audio)
   - [Typing, textGrain, NetScaler, Fortinet, Copilot, LibreOffice, Dots, Aaran Leyland - SWN #622](http://sites.libsyn.com/18678/typing-textgrain-netscaler-fortinet-copilot-libreoffice-dots-aaran-leyland-swn-622)
   - [Getting Granular with Access, Attributes, and Intent - Alex Olivier - ASW #403](http://sites.libsyn.com/18678/getting-granular-with-access-attributes-and-intent-alex-olivier-asw-403)
